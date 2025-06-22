@@ -7,27 +7,73 @@
 ## 项目结构
 
 ```
-Sales-Data-Analysis/
-├── data/                   # 数据文件目录
-│   └── raw_sales_data.csv  # 原始销售数据
-├── notebooks/              # Jupyter笔记本
-│   ├── 01_data_loading.ipynb      # 数据加载
-│   ├── 02_data_cleaning.ipynb     # 数据清洗
-│   ├── 03_outlier_handling.ipynb  # 异常值处理
-│   ├── 04_eda_visualization.ipynb # 探索性分析
-│   └── 05_summary_report.ipynb    # 总结报告
-├── outputs/                # 输出文件目录
-│   ├── cleaned_data.csv    # 清洗后的数据
-│   ├── summary_stats.csv   # 统计摘要
-│   ├── sales_by_region.png # 地区销售图表
-│   └── comprehensive_analysis.png # 综合分析图表
-├── report/                 # 报告目录
-│   └── analysis_report.md  # 分析报告
-├── scripts/                # Python脚本
-│   └── data_utils.py       # 数据处理工具函数
-├── main_analysis.py        # 主执行脚本
-├── requirements.txt        # 依赖包列表
-└── README.md              # 项目说明文档
+Sales-Analysis-Project/
+│
+├── venv/                        # 虚拟环境 Virtual environment
+│   └── ...                      # Python虚拟环境文件 Python virtual environment files
+│ 
+├── data/                        # 数据存储区 Data storage area
+│   ├── raw_sales_data.csv       # 原始销售数据 Raw sales data (39KB)
+│   ├── converted_online_retail_II.csv  # 转换后的在线零售数据 Converted online retail data (79MB)
+│   ├── small_dataset.csv        # 小型测试数据集 Small test dataset (502行)
+│   ├── medium_dataset.csv       # 中等规模数据集 Medium-sized dataset (2002行)
+│   ├── large_dataset.csv        # 大型数据集 Large dataset (10002行)
+│   ├── product_category_dataset.csv    # 产品分类数据集 Product category dataset (2502行)
+│   ├── regional_focus_dataset.csv      # 区域专注数据集 Regional focus dataset (1502行)
+│   ├── seasonal_dataset.csv     # 季节性数据集 Seasonal dataset (3002行)
+│   └── high_missing_dataset.csv # 高缺失值数据集 Dataset with high missing values (1002行)
+│
+├── notebooks/                   # Jupyter Notebook 脚本区 Jupyter Notebook script area
+│   ├── 01_data_loading.ipynb    # 数据加载脚本 Data loading script
+│   ├── 02_data_cleaning.ipynb   # 数据清洗脚本 Data cleaning script
+│   ├── 03_outlier_handling.ipynb # 异常值处理脚本 Outlier handling script
+│   ├── 04_eda_visualization.ipynb # 探索性数据分析与可视化 Exploratory data analysis & visualization
+│   └── 05_summary_report.ipynb  # 汇总报告脚本 Summary report script
+│
+├── outputs/                     # 输出结果区（图像和表格） Output result area (images and tables)
+│   ├── eg/                      # 示例输出子目录 Example output subdirectory
+│   ├── cleaned_data.csv         # 清洗后的数据 Cleaned data (待生成 To be generated)
+│   ├── sales_by_region.png      # 区域销售图表 Sales by region chart (待生成 To be generated)
+│   ├── summary_stats.csv        # 汇总统计表 Summary statistics table (待生成 To be generated)
+│   └── analysis_report.md       # Markdown 分析报告 Analysis report in Markdown (待生成 To be generated)
+│
+├── scripts/                     # 可复用脚本函数库 Reusable script function library 
+│   ├── __pycache__/             # Python 缓存目录 Python cache directory
+│   ├── data_utils.py            # 数据工具函数库 Data utility functions library (197行)
+│   │                            # 功能：封装数据清洗、异常处理、统计分析等函数
+│   │                            # Functions: Data cleaning, exception handling, statistical analysis
+│   └── multi_file_processor.py  # 多文件批量处理器 Multi-file batch processor (1116行)
+│                                # 功能：批量处理多个数据文件，支持并行处理
+│                                # Functions: Batch processing multiple data files with parallel support
+│
+├── report/                      # 项目报告目录 Project report directory
+│
+├── README.md                    # 项目说明文件 Project description document (251行)
+├── requirements.txt             # Python依赖包列表 Python dependencies list (57行)
+│
+├── main_analysis.py             # 主分析脚本 Main analysis script (348行)
+│                                # 功能：核心数据分析逻辑，整合各模块功能
+│                                # Functions: Core data analysis logic, integrating all modules
+│
+├── data_processor.py            # 数据处理器 Data processor (276行)
+│                                # 功能：专门处理数据预处理和转换任务
+│                                # Functions: Specialized data preprocessing and transformation
+│
+├── sales_analysis_gui.py        # 图形用户界面主程序 GUI main program (1195行)
+│                                # 功能：提供交互式销售数据分析界面
+│                                # Functions: Interactive sales data analysis interface
+│
+├── start_gui.py                 # GUI启动脚本 GUI startup script (109行)
+│                                # 功能：简化GUI程序启动流程
+│                                # Functions: Simplify GUI program startup process
+│
+├── start_gui.bat                # Windows一键启动脚本 Windows one-click startup script (200行)
+│                                # 功能：Windows批处理文件，一键启动GUI应用
+│                                # Functions: Windows batch file for one-click GUI startup
+│
+└── check_file.py                # 文件检查工具 File checking utility (32行)
+                                 # 功能：检查项目文件完整性和数据格式
+                                 # Functions: Check project file integrity and data formats
 ```
 
 ## 功能特性
@@ -39,10 +85,36 @@ Sales-Data-Analysis/
 - **报告生成**: 自动生成详细的分析报告
 - **模块化设计**: 可重用的数据处理函数
 
+## 数据流程图（Data Flow Diagram）
+原始数据 Raw Data → 数据加载 Data Loading → 数据清洗 Data Cleaning → 
+异常值处理 Outlier Handling → 探索性分析 EDA → 数据可视化 Visualization → 
+报告生成 Report Generation → 结果输出 Result Output
+
+## 技术栈与工具（Technology Stack & Tools）
+┌─────────────────┬──────────────────────┬─────────────────────────────┐
+│ 分类 Category   │ 工具/技术 Tools/Tech  │ 用途 Purpose                │
+├─────────────────┼──────────────────────┼─────────────────────────────┤
+│ 数据处理        │ pandas, numpy        │ 数据清洗、计算、分析        │
+│ Data Processing │                      │ Data cleaning, computation  │
+├─────────────────┼──────────────────────┼─────────────────────────────┤
+│ 数据可视化      │ matplotlib, seaborn, │ 图表生成、统计可视化        │
+│ Visualization   │ plotly               │ Chart generation, stats viz │
+├─────────────────┼──────────────────────┼─────────────────────────────┤
+│ 开发环境        │ Jupyter Notebook,    │ 脚本编写与交互式开发        │
+│ Development     │ VSCode, Python       │ Script writing & interactive│
+├─────────────────┼──────────────────────┼─────────────────────────────┤
+│ 用户界面        │ tkinter, GUI工具包   │ 图形界面开发                │
+│ User Interface  │ GUI toolkit          │ Graphical interface dev     │
+├─────────────────┼──────────────────────┼─────────────────────────────┤
+│ 报告输出        │ Markdown, CSV        │ 结果报告和数据导出          │
+│ Report Output   │                      │ Result reporting & export   │
+└─────────────────┴──────────────────────┴─────────────────────────────┘
+
+
 ## 安装要求
 
 ### Python版本
-- Python 3.7 或更高版本
+- Python 3.10 或更高版本
 
 ### 依赖包
 ```
