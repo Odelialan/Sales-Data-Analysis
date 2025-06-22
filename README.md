@@ -91,6 +91,7 @@ Sales-Analysis-Project/
 报告生成 Report Generation → 结果输出 Result Output
 
 ## 技术栈与工具（Technology Stack & Tools）
+```
 ┌─────────────────┬──────────────────────┬─────────────────────────────┐
 │ 分类 Category   │ 工具/技术 Tools/Tech  │ 用途 Purpose                │
 ├─────────────────┼──────────────────────┼─────────────────────────────┤
@@ -109,7 +110,7 @@ Sales-Analysis-Project/
 │ 报告输出        │ Markdown, CSV        │ 结果报告和数据导出          │
 │ Report Output   │                      │ Result reporting & export   │
 └─────────────────┴──────────────────────┴─────────────────────────────┘
-
+```
 
 ## 安装要求
 
