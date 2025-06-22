@@ -1,0 +1,3001 @@
+Order_ID,Product,Quantity,Price,Order_Date,Region
+1,Cooling Fan,21,413.99,2024-11-22,Northeast
+2,HDD,28,324.06,2023-02-04,Southwest
+3,Monitor,43,160.97,2024-01-14,North
+4,CPU,16,383.44,2022-12-01,Southeast
+5,T-Shirt,19,143.99,2022-02-08,Central
+6,Notebook,37,189.15,2023-02-05,South
+7,Speaker,21,758.18,2024-11-15,Southwest
+8,Textbook,50,265.09,2022-02-11,Central
+9,Cooling Fan,50,70.08,2023-12-23,Southeast
+10,Programming Book,44,240.53,2023-01-05,South
+11,Calculator,12,766.09,2024-08-16,East
+12,Tablet,23,582.05,2024-12-19,Southwest
+13,Washing Machine,22,433.27,2022-03-01,Southwest
+14,Novel,13,915.26,2024-01-26,East
+15,CPU,9,312.23,2022-02-15,East
+16,HDD,32,261.65,2023-12-25,North
+17,Graphics Card,43,589.13,2023-03-14,Southeast
+18,Air Conditioner,43,593.73,2023-06-25,North
+19,Microwave,30,395.72,2022-02-23,
+20,SSD,13,183.42,2024-12-26,South
+21,Paper,48,503.72,2023-02-04,Northeast
+22,SSD,15,975.33,2022-02-02,East
+23,Paper,2,428.47,2024-02-20,North
+24,Textbook,22,525.98,2024-09-13,East
+25,Network Card,1,498.33,2024-12-22,West
+26,Textbook,29,871.26,2022-03-19,Northeast
+27,Monitor,2,598.0,2024-01-22,West
+28,Refrigerator,8,358.29,2024-11-02,Southwest
+29,Jacket,9,564.72,2024-08-04,North
+30,Scanner,13,,2022-01-21,East
+31,SSD,11,315.68,2022-11-23,Northeast
+32,RAM,40,945.34,2024-05-12,Southeast
+33,External HDD,41,881.13,2024-11-18,South
+34,Graphics Card,14,646.22,2024-01-10,North
+35,Motherboard,39,189.36,2022-12-11,Southwest
+36,Shoes,26,519.31,2024-12-11,North
+37,Tablet,17,85.12,2024-08-12,West
+38,Bag,25,421.78,2022-12-22,Southwest
+39,Keyboard,24,471.97,2022-12-10,Northwest
+40,Headphones,17,267.35,2023-01-07,
+41,Tablet,42,206.95,2023-05-12,Central
+42,Folder,26,644.33,2023-01-24,East
+43,CPU,6,769.33,2023-11-14,Northwest
+44,Speaker,16,312.07,2022-10-11,Northeast
+45,Desktop,9,222.28,2024-01-01,Northeast
+46,T-Shirt,12,127.13,2023-01-22,
+47,External HDD,39,,2023-12-05,East
+48,Cooling Fan,44,667.96,2024-02-13,Southeast
+49,Monitor,34,822.14,2024-07-07,Central
+50,Washing Machine,13,625.17,2022-01-26,East
+51,Novel,13,324.05,2023-02-22,Central
+52,T-Shirt,50,,2024-11-03,West
+53,Speaker,40,69.2,2023-01-15,East
+54,Novel,15,868.16,2022-07-12,Southeast
+55,Magazine,16,487.03,2022-01-22,Northeast
+56,Magazine,25,895.66,2024-02-01,Northeast
+57,Office Chair,24,634.88,2022-11-06,North
+58,External HDD,7,304.26,2023-12-18,Northeast
+59,Smartphone,1,,2022-07-05,Northeast
+60,Pen,7,,2024-04-16,Northeast
+61,Hat,31,865.99,2022-11-27,North
+62,Network Card,6,283.19,2022-12-06,East
+63,Printer,32,360.57,2024-11-11,East
+64,Office Chair,31,113.5,2023-02-18,Northeast
+65,RAM,17,595.25,2023-11-27,Northwest
+66,Cooling Fan,19,692.16,2023-11-01,East
+67,Desktop,49,187.59,2022-02-03,Central
+68,Microwave,41,957.08,2022-11-15,Central
+69,Hat,37,708.31,2022-11-01,Central
+70,Network Card,47,301.57,2022-12-17,North
+71,Calculator,46,343.33,2024-02-22,West
+72,GPU,19,714.85,2022-05-19,
+73,Microphone,6,25.87,2024-08-27,Central
+74,Cooling Fan,23,275.11,2024-08-24,South
+75,Tablet,10,851.02,2022-04-04,West
+76,Paper,38,136.88,2024-11-12,West
+77,Power Supply,39,550.26,2023-10-19,Northeast
+78,Scanner,39,16.21,2023-02-12,West
+79,Keyboard,5,812.68,2024-11-23,Southeast
+80,Folder,33,958.49,2024-02-05,Southeast
+81,Motherboard,34,245.48,2024-12-26,Southwest
+82,HDD,41,920.64,2022-02-13,Southeast
+83,Motherboard,47,687.31,2022-11-01,North
+84,Watch,36,545.47,2022-02-20,South
+85,Motherboard,12,881.23,2023-01-27,West
+86,Washing Machine,10,892.32,2023-01-02,Southwest
+87,Jeans,1,89.71,2022-12-10,East
+88,Headphones,20,586.08,2022-11-09,Northwest
+89,Laptop,22,565.87,2024-01-11,West
+90,Speaker,9,,2024-11-28,
+91,CPU,6,224.16,2022-01-20,Southwest
+92,Speaker,28,300.04,2024-02-13,Southeast
+93,Smartphone,41,396.12,2022-12-08,North
+94,Cooling Fan,42,618.85,2024-01-12,Southwest
+95,Power Supply,9,445.86,2023-01-01,Southeast
+96,Headphones,30,413.4,2024-11-26,West
+97,Folder,43,804.74,2024-11-12,South
+98,HDD,41,604.04,2022-02-10,Northeast
+99,Network Card,29,34.96,2022-01-05,Southeast
+100,Jacket,6,814.31,2023-01-18,Central
+101,Webcam,47,544.68,2022-02-27,Southeast
+102,Shoes,35,580.24,2022-11-19,Southwest
+103,Graphics Card,41,48.14,2022-11-08,North
+104,Hat,38,394.21,2022-12-23,Southwest
+105,USB Drive,12,846.86,2024-04-12,Central
+106,Tablet,38,522.54,2024-02-25,Northwest
+107,Hat,3,786.11,2023-02-17,Northwest
+108,Watch,43,90.17,2023-12-10,Northeast
+109,Motherboard,39,119.95,2023-11-13,West
+110,RAM,24,,2022-07-04,Northwest
+111,TV,38,940.82,2022-12-15,Northwest
+112,Notebook,19,985.76,2022-11-25,South
+113,Headphones,40,975.87,2023-02-16,Southwest
+114,Power Supply,8,556.39,2022-03-10,Southwest
+115,Microwave,11,638.1,2024-02-04,Northwest
+116,External HDD,9,892.71,2023-01-06,Northeast
+117,Textbook,9,716.03,2024-07-23,Northwest
+118,Air Conditioner,5,,2022-01-08,South
+119,Washing Machine,46,470.61,2024-02-12,Northwest
+120,Washing Machine,49,28.05,2024-12-05,Southeast
+121,Bag,34,105.08,2024-01-03,East
+122,Mouse,28,,2024-11-01,Central
+123,Folder,44,,2024-02-11,South
+124,Tablet,48,212.21,2022-02-05,North
+125,Mouse,31,960.61,2024-06-25,East
+126,SSD,33,644.6,2024-01-02,
+127,Scanner,15,821.72,2023-03-03,North
+128,GPU,22,372.16,2024-02-19,South
+129,Motherboard,47,239.33,2024-08-03,South
+130,Power Supply,50,843.91,2022-11-22,Southeast
+131,Washing Machine,25,199.0,2024-08-09,Southeast
+132,Paper,34,880.63,2022-11-25,West
+133,Smartphone,17,,2023-01-22,Central
+134,Shoes,39,397.37,2023-05-15,South
+135,Air Conditioner,44,,2023-11-17,North
+136,Jeans,42,889.66,2023-01-05,Southwest
+137,Network Card,48,210.04,2023-09-19,Northwest
+138,Textbook,28,475.86,2024-02-05,Southwest
+139,Webcam,50,979.71,2024-12-10,North
+140,Novel,21,126.91,2024-02-08,South
+141,USB Drive,27,673.48,2024-02-27,Central
+142,RAM,21,526.31,2023-08-26,North
+143,Laptop,4,41.61,2024-11-19,Southwest
+144,Notebook,29,,2024-01-09,Northeast
+145,Graphics Card,49,505.55,2022-12-12,East
+146,Washing Machine,39,788.89,2022-02-20,South
+147,Folder,13,778.27,2022-12-13,South
+148,Folder,30,538.89,2024-02-06,Northeast
+149,Graphics Card,40,936.19,2024-10-19,South
+150,Hat,30,,2024-04-23,Central
+151,Dictionary,26,,2023-07-22,Central
+152,Office Chair,50,61.41,2023-02-17,Southeast
+153,SSD,45,99.29,2023-12-26,Northwest
+154,Keyboard,44,13.2,2024-12-07,East
+155,Network Card,27,506.26,2024-07-20,Southwest
+156,Watch,50,784.81,2023-11-01,South
+157,T-Shirt,33,,2022-02-28,Central
+158,Office Chair,29,819.96,2023-01-21,Central
+159,GPU,30,963.7,2023-08-10,South
+160,Network Card,13,348.78,2024-11-04,Central
+161,Microwave,1,892.6,2023-12-02,Southwest
+162,SSD,39,27.45,2022-02-24,West
+163,Mouse,49,625.82,2022-02-10,West
+164,CPU,27,546.34,2024-11-21,North
+165,RAM,12,,2022-01-01,East
+166,Pen,36,584.6,2022-12-20,West
+167,Programming Book,29,530.52,2024-11-15,Northeast
+168,SSD,6,315.2,2023-02-09,South
+169,Air Conditioner,26,574.6,2024-11-03,Northwest
+170,Office Chair,34,729.48,2022-12-25,
+171,Power Supply,31,275.37,2024-10-21,West
+172,Pen,49,663.19,2024-01-12,Central
+173,Dictionary,1,659.57,2023-01-25,Southwest
+174,USB Drive,27,710.13,2022-11-03,Southwest
+175,Hat,47,712.32,2022-02-06,
+176,Notebook,20,552.68,2023-01-26,Southwest
+177,Hat,26,124.87,2024-12-01,North
+178,Monitor,3,880.39,2023-03-24,North
+179,Speaker,5,616.45,2024-12-23,West
+180,GPU,38,335.69,2023-11-10,West
+181,Microphone,14,91.41,2023-01-28,West
+182,Motherboard,44,,2022-04-27,West
+183,Laptop,49,184.71,2022-11-16,
+184,Motherboard,42,260.06,2023-02-22,Central
+185,Cooling Fan,30,239.16,2023-02-21,Northwest
+186,Shoes,10,787.9,2022-01-16,Southeast
+187,Washing Machine,31,992.25,2022-11-16,Central
+188,Desktop,9,155.46,2024-01-05,Southeast
+189,Refrigerator,50,,2022-02-04,Central
+190,Mouse,49,562.61,2023-12-09,East
+191,Speaker,15,144.56,2023-02-22,Northwest
+192,Watch,47,589.13,2022-11-17,Southwest
+193,Refrigerator,8,779.33,2023-02-13,Southeast
+194,Watch,37,450.48,2023-12-01,Central
+195,Microphone,41,398.6,2023-11-17,Northeast
+196,Shoes,25,888.67,2023-04-12,North
+197,Jacket,46,,2023-11-21,Central
+198,Headphones,10,981.69,2023-12-18,Northeast
+199,Microphone,46,98.66,2022-12-25,West
+200,Desk,19,56.79,2024-12-16,East
+201,Calculator,36,185.99,2024-08-04,Northeast
+202,Bag,3,946.69,2022-12-06,South
+203,Office Chair,21,76.63,2023-02-23,South
+204,Watch,8,,2022-09-05,North
+205,Smartphone,22,559.07,2022-12-11,West
+206,Pen,40,556.27,2022-02-09,East
+207,USB Drive,22,50.07,2022-11-27,Central
+208,Folder,42,376.85,2024-12-06,West
+209,Speaker,31,491.61,2024-11-08,West
+210,Microwave,13,534.56,2022-04-07,Southeast
+211,SSD,45,896.45,2024-12-22,Southeast
+212,Refrigerator,31,811.83,2023-02-05,North
+213,Dictionary,48,994.03,2022-01-28,Central
+214,Microwave,25,189.87,2023-01-16,Southeast
+215,Keyboard,25,171.96,2024-01-03,Southwest
+216,Power Supply,30,802.73,2023-09-23,South
+217,Calculator,47,191.23,2024-01-01,
+218,Speaker,41,637.14,2024-12-24,South
+219,Microphone,48,872.15,2023-12-01,West
+220,Notebook,36,621.83,2022-02-28,West
+221,Smartphone,18,,2024-02-09,
+222,Pen,25,609.0,2023-10-14,North
+223,Refrigerator,45,918.39,2023-06-08,
+224,Power Supply,14,267.13,2024-12-01,North
+225,Mouse,45,435.48,2023-12-03,Northeast
+226,Mouse,22,285.15,2023-02-27,Northwest
+227,Tablet,17,921.68,2023-08-04,
+228,Notebook,19,395.34,2023-08-25,South
+229,USB Drive,39,167.88,2024-11-14,South
+230,Notebook,41,548.64,2024-08-01,Southwest
+231,Shoes,37,299.03,2023-10-09,Central
+232,Textbook,37,258.16,2024-11-13,Southeast
+233,Programming Book,23,45.29,2023-04-24,Northeast
+234,Headphones,38,910.03,2022-12-07,Northwest
+235,Novel,26,768.54,2022-05-16,North
+236,Headphones,12,59.2,2022-11-03,Southwest
+237,Headphones,12,,2022-01-24,Central
+238,Folder,33,739.85,2024-12-15,Central
+239,Microwave,35,210.84,2022-03-11,West
+240,RAM,48,512.05,2022-03-09,Northeast
+241,Mouse,48,409.95,2023-12-04,Southwest
+242,RAM,14,52.37,2024-03-14,Central
+243,Notebook,6,465.8,2024-11-07,Southwest
+244,Jeans,2,143.22,2022-02-10,North
+245,CPU,29,543.59,2022-02-26,Northwest
+246,Office Chair,7,640.85,2023-11-27,Northwest
+247,Desktop,20,136.2,2022-12-14,Southwest
+248,Hat,20,,2022-12-01,Central
+249,Tablet,42,66.1,2024-01-03,West
+250,Desktop,46,306.92,2024-02-12,Southeast
+251,Hat,9,160.74,2022-01-09,South
+252,Washing Machine,28,537.26,2024-01-24,Southeast
+253,Shoes,2,990.42,2023-12-21,Central
+254,GPU,35,956.78,2022-11-02,East
+255,Textbook,35,742.83,2022-02-10,Northwest
+256,Tablet,8,826.72,2023-05-20,Southeast
+257,Power Supply,5,498.46,2023-07-19,Northeast
+258,Monitor,50,368.48,2022-11-25,Southeast
+259,Motherboard,26,166.68,2024-01-11,West
+260,Bag,3,444.02,2022-01-26,Central
+261,Magazine,30,92.27,2022-04-23,Southeast
+262,Desk,9,512.07,2023-11-25,East
+263,Graphics Card,17,513.52,2022-11-26,Northwest
+264,Air Conditioner,40,540.48,2022-11-21,
+265,USB Drive,35,41.63,2022-11-04,West
+266,Paper,9,782.54,2022-02-28,Southwest
+267,TV,44,22.98,2023-05-09,North
+268,Printer,5,512.73,2023-12-03,Northeast
+269,Watch,31,618.88,2023-11-13,Northwest
+270,Desktop,18,,2023-12-01,Southwest
+271,Network Card,22,551.03,2024-11-21,Southwest
+272,Folder,12,749.65,2023-12-06,North
+273,Power Supply,32,403.39,2024-11-01,West
+274,Mouse,22,945.0,2024-01-23,North
+275,Notebook,39,770.24,2024-02-17,Southwest
+276,Programming Book,17,931.96,2024-06-23,Southeast
+277,Hat,44,249.13,2024-01-02,Northwest
+278,Jeans,42,372.53,2023-12-22,South
+279,Dictionary,31,,2022-01-08,Central
+280,Office Chair,45,,2022-01-10,Northeast
+281,Textbook,19,967.08,2022-12-08,Southeast
+282,Paper,31,847.94,2022-11-04,Central
+283,Folder,43,720.3,2024-01-02,South
+284,Desk,5,745.72,2023-10-26,Southwest
+285,CPU,37,674.13,2022-02-01,East
+286,USB Drive,28,,2024-03-21,Southwest
+287,Headphones,43,523.33,2023-02-24,Northwest
+288,Paper,38,334.36,2022-12-16,North
+289,CPU,24,,2023-12-13,East
+290,Mouse,1,272.9,2024-09-27,East
+291,Notebook,5,,2024-01-15,East
+292,Desk,30,442.32,2023-12-16,Northeast
+293,Headphones,16,234.66,2022-02-09,Central
+294,Office Chair,4,446.29,2022-11-18,Southwest
+295,Jeans,4,456.74,2023-02-28,Northwest
+296,GPU,4,678.21,2024-10-17,East
+297,Network Card,45,99.62,2022-05-17,Northeast
+298,Power Supply,14,369.17,2024-02-20,Northwest
+299,Watch,30,910.36,2023-01-23,Northwest
+300,Desk,21,991.31,2023-03-25,North
+301,SSD,8,317.47,2022-02-07,Central
+302,Network Card,38,457.89,2024-02-16,South
+303,SSD,39,579.2,2024-11-17,Northeast
+304,GPU,43,143.72,2023-02-07,Southeast
+305,Watch,13,,2022-01-28,Northeast
+306,Speaker,35,724.73,2024-11-01,Southeast
+307,Network Card,3,255.64,2022-01-04,South
+308,Pen,19,85.98,2022-01-06,Northwest
+309,Smartphone,9,363.7,2024-01-09,Northwest
+310,External HDD,9,907.03,2023-02-10,Southeast
+311,Webcam,28,230.75,2024-08-18,West
+312,Desk,13,87.5,2024-11-15,West
+313,Webcam,8,826.64,2023-01-25,East
+314,Jacket,29,896.63,2024-12-06,Northeast
+315,Watch,48,486.68,2023-11-22,Southwest
+316,Air Conditioner,1,148.94,2024-11-23,Central
+317,Pen,2,177.62,2024-05-01,Southeast
+318,Watch,32,801.05,2022-03-24,Northwest
+319,CPU,23,126.86,2023-08-08,Central
+320,Folder,20,187.7,2022-01-05,West
+321,Keyboard,7,475.8,2022-11-21,West
+322,GPU,48,544.94,2022-02-06,North
+323,Bag,7,822.93,2023-06-26,East
+324,Magazine,8,738.83,2022-09-28,Northwest
+325,Jeans,17,931.19,2022-02-19,South
+326,External HDD,26,273.88,2022-02-06,South
+327,Mouse,27,629.6,2023-11-01,South
+328,Watch,24,893.29,2023-12-17,Northwest
+329,Folder,2,859.84,2023-12-26,Southeast
+330,Air Conditioner,46,789.62,2022-02-04,Northeast
+331,Motherboard,5,71.82,2022-12-23,South
+332,Washing Machine,9,109.07,2024-01-02,North
+333,Keyboard,12,220.79,2024-11-18,North
+334,Hat,43,343.35,2023-03-26,East
+335,Microphone,25,757.19,2023-01-23,
+336,HDD,45,37.69,2022-12-03,Northeast
+337,Motherboard,24,520.38,2022-12-19,Northeast
+338,Microwave,28,464.66,2023-12-27,East
+339,TV,24,42.43,2022-11-17,Southeast
+340,Speaker,3,777.21,2023-03-14,Central
+341,Power Supply,3,218.69,2023-02-13,Northwest
+342,Jeans,24,356.75,2023-12-26,South
+343,T-Shirt,29,96.32,2022-05-11,
+344,Power Supply,46,642.72,2022-08-06,Northwest
+345,Webcam,39,240.93,2023-07-16,West
+346,Mouse,19,38.53,2022-02-23,Southwest
+347,Headphones,9,535.64,2024-03-02,Southwest
+348,Hat,13,556.11,2023-02-21,North
+349,Refrigerator,46,471.16,2023-01-17,Southeast
+350,Microphone,47,124.69,2024-09-13,South
+351,Novel,37,867.02,2022-04-19,North
+352,Refrigerator,21,,2022-10-07,West
+353,Programming Book,31,721.86,2022-04-18,North
+354,Notebook,7,714.54,2024-05-15,East
+355,SSD,35,322.51,2024-06-15,Northwest
+356,Air Conditioner,5,889.76,2024-12-05,Southwest
+357,Graphics Card,24,39.39,2022-06-26,West
+358,External HDD,42,158.1,2022-12-18,East
+359,Shoes,29,652.09,2023-11-21,Southeast
+360,Textbook,26,441.63,2022-02-11,Southwest
+361,Hat,16,267.18,2024-01-14,Southeast
+362,CPU,35,870.69,2022-02-14,East
+363,Headphones,9,697.54,2024-01-07,West
+364,USB Drive,19,264.14,2022-01-13,West
+365,Webcam,18,174.89,2022-01-21,Northeast
+366,Desktop,30,299.56,2023-12-07,South
+367,SSD,43,493.76,2022-12-15,South
+368,Speaker,13,679.57,2024-12-01,
+369,Cooling Fan,49,221.09,2024-01-12,South
+370,RAM,5,840.56,2022-01-17,
+371,Dictionary,22,412.46,2024-09-14,South
+372,Textbook,26,555.89,2024-11-26,Southwest
+373,Headphones,2,887.27,2024-09-11,Southeast
+374,Watch,23,415.55,2023-12-19,Central
+375,Mouse,46,969.86,2022-12-17,Southeast
+376,Cooling Fan,47,517.93,2024-02-20,Southeast
+377,Refrigerator,9,272.66,2024-03-20,Central
+378,Cooling Fan,45,413.48,2024-09-13,Northeast
+379,Mouse,5,854.82,2023-11-07,Northeast
+380,HDD,39,47.42,2024-12-27,West
+381,Laptop,18,620.12,2022-02-17,East
+382,HDD,24,644.24,2022-12-17,Northwest
+383,Monitor,7,444.14,2022-02-07,Southwest
+384,Programming Book,34,472.19,2024-01-10,Northeast
+385,Smartphone,20,851.75,2022-12-25,West
+386,Washing Machine,6,654.95,2024-03-11,Southwest
+387,HDD,24,342.88,2024-12-19,Southwest
+388,Dictionary,21,681.59,2022-11-04,Southwest
+389,Washing Machine,23,148.89,2024-01-26,Southwest
+390,Paper,16,321.11,2024-06-24,Northeast
+391,RAM,34,666.64,2022-12-20,Northwest
+392,Motherboard,5,178.46,2024-12-24,Southeast
+393,Keyboard,26,895.18,2023-02-25,Central
+394,HDD,35,652.37,2023-11-28,Southwest
+395,Programming Book,49,887.05,2024-06-17,North
+396,Microphone,50,766.67,2022-01-25,Southwest
+397,Folder,46,352.96,2024-12-25,Southeast
+398,Webcam,1,64.51,2024-01-25,Northwest
+399,Paper,33,274.93,2022-01-14,West
+400,Bag,32,259.51,2023-11-08,Southeast
+401,Jeans,47,922.48,2022-01-26,East
+402,Notebook,4,89.82,2022-09-02,South
+403,USB Drive,33,717.06,2022-04-04,Central
+404,Graphics Card,43,663.03,2022-12-25,East
+405,Programming Book,37,340.12,2023-04-03,West
+406,Cooling Fan,2,620.69,2023-11-21,Central
+407,Programming Book,17,26.59,2023-06-05,West
+408,Network Card,29,,2022-01-02,East
+409,Novel,4,382.69,2023-06-03,North
+410,SSD,34,821.13,2023-12-22,North
+411,Desk,30,414.03,2024-01-06,West
+412,Textbook,27,68.59,2023-12-27,East
+413,Printer,47,129.35,2024-10-21,West
+414,Programming Book,28,661.35,2022-01-10,Southeast
+415,Power Supply,32,370.47,2024-05-09,Northeast
+416,Microphone,40,518.31,2024-12-04,Northwest
+417,Desktop,24,,2022-12-26,Southwest
+418,SSD,37,566.92,2022-01-04,East
+419,RAM,35,756.69,2024-01-26,Southeast
+420,Motherboard,32,442.33,2023-01-01,Northeast
+421,Desk,46,389.63,2024-02-17,Northwest
+422,Network Card,42,790.28,2022-01-22,Central
+423,Air Conditioner,29,76.14,2024-08-16,West
+424,USB Drive,12,937.63,2023-08-28,West
+425,RAM,23,748.69,2024-04-02,Southwest
+426,Headphones,10,556.53,2022-11-20,West
+427,Notebook,6,203.78,2024-12-24,Southwest
+428,Novel,29,197.82,2023-02-24,
+429,Jacket,23,915.0,2023-09-07,Southeast
+430,Desk,37,276.31,2024-12-27,Central
+431,Paper,1,283.2,2023-10-15,North
+432,RAM,48,125.06,2024-11-18,Southwest
+433,Textbook,26,453.85,2023-03-24,Southwest
+434,Hat,49,479.04,2022-11-03,Northwest
+435,Desktop,31,792.21,2024-12-14,Northwest
+436,Shoes,10,923.43,2022-02-03,West
+437,Hat,1,254.76,2024-11-25,East
+438,Scanner,9,,2024-02-14,North
+439,Notebook,30,693.25,2024-02-15,North
+440,Monitor,25,657.06,2024-11-06,East
+441,Printer,6,587.88,2022-12-07,Northwest
+442,T-Shirt,29,,2023-12-24,Northwest
+443,Desk,19,796.97,2023-01-12,Northwest
+444,Jeans,28,938.92,2022-02-10,Central
+445,Magazine,30,549.28,2024-11-21,Southwest
+446,Headphones,8,,2023-04-06,Southwest
+447,Shoes,6,266.61,2023-02-25,West
+448,Washing Machine,28,684.98,2022-02-23,
+449,Desktop,23,761.44,2024-03-28,Northeast
+450,Headphones,48,632.58,2024-03-13,East
+451,Magazine,15,806.17,2024-12-23,
+452,Webcam,42,372.25,2024-11-27,West
+453,Network Card,37,411.45,2024-03-19,Northwest
+454,Printer,6,624.85,2023-04-04,North
+455,RAM,48,900.58,2022-02-24,South
+456,SSD,12,728.28,2023-12-08,North
+457,Power Supply,12,990.55,2024-12-24,South
+458,Paper,7,956.02,2024-02-28,South
+459,Hat,49,348.71,2023-04-26,East
+460,CPU,38,280.23,2022-03-06,Southwest
+461,Hat,32,381.92,2023-11-25,Central
+462,Hat,27,797.65,2024-12-17,South
+463,Notebook,26,692.18,2023-11-18,South
+464,Printer,11,534.98,2024-12-27,East
+465,Cooling Fan,15,741.1,2024-12-02,Southwest
+466,Programming Book,43,582.49,2023-11-18,Southwest
+467,Webcam,47,417.43,2023-02-19,North
+468,Textbook,40,840.67,2023-10-03,East
+469,Network Card,19,875.96,2024-12-12,Central
+470,Motherboard,11,659.62,2023-12-10,West
+471,Shoes,44,221.06,2024-01-23,South
+472,Dictionary,10,117.02,2023-01-19,East
+473,Watch,40,854.13,2022-11-22,Southwest
+474,Bag,35,166.09,2022-11-02,Northwest
+475,Watch,38,666.57,2022-11-27,Northeast
+476,T-Shirt,22,142.28,2024-02-27,Northeast
+477,Speaker,10,316.1,2024-11-20,East
+478,USB Drive,22,,2024-02-10,South
+479,Mouse,26,,2023-02-28,Northwest
+480,Motherboard,10,836.94,2022-05-24,Southwest
+481,RAM,35,647.1,2022-12-01,Southwest
+482,Dictionary,49,762.01,2024-11-28,Northwest
+483,Network Card,32,372.76,2023-01-01,East
+484,Speaker,34,687.09,2022-11-11,Central
+485,Cooling Fan,6,288.86,2023-02-12,
+486,Shoes,14,841.9,2023-01-26,East
+487,Desktop,6,647.13,2023-11-20,South
+488,Laptop,48,801.49,2022-07-20,Central
+489,USB Drive,19,583.37,2024-11-06,Southwest
+490,Mouse,42,,2023-02-03,East
+491,Printer,18,738.06,2024-02-17,Southeast
+492,Bag,1,412.17,2023-01-28,Northwest
+493,External HDD,10,559.66,2023-01-19,East
+494,T-Shirt,9,810.34,2023-12-17,Southwest
+495,Network Card,27,965.5,2024-02-05,Southwest
+496,Power Supply,30,391.32,2022-12-06,North
+497,External HDD,30,29.85,2023-12-25,East
+498,Graphics Card,4,287.19,2022-02-14,Southeast
+499,HDD,26,719.77,2024-01-17,Southeast
+500,Scanner,29,236.71,2023-01-27,West
+501,Cooling Fan,10,860.05,2024-01-26,Southeast
+502,Speaker,44,317.65,2023-11-15,East
+503,Microphone,20,274.82,2024-06-06,Southeast
+504,Paper,37,991.75,2022-01-09,Central
+505,CPU,15,,2023-07-25,West
+506,Power Supply,14,731.88,2023-12-17,Southeast
+507,Graphics Card,23,892.46,2022-01-07,Northeast
+508,Monitor,49,286.07,2024-11-25,East
+509,Keyboard,9,810.44,2024-01-23,Southwest
+510,SSD,44,662.66,2023-01-03,North
+511,Jeans,49,975.13,2022-11-15,Central
+512,Calculator,11,827.95,2024-12-10,South
+513,Smartphone,2,322.59,2022-03-01,Northeast
+514,Microwave,17,951.18,2024-11-27,East
+515,CPU,34,738.31,2023-01-28,Southeast
+516,Office Chair,27,141.88,2024-12-23,Northeast
+517,GPU,12,818.87,2024-12-06,West
+518,Dictionary,24,562.95,2023-01-11,Northeast
+519,Hat,15,,2023-01-13,North
+520,Scanner,17,621.6,2023-01-02,West
+521,Scanner,21,385.11,2023-12-26,Southeast
+522,TV,26,613.55,2022-12-01,Central
+523,T-Shirt,5,849.13,2023-02-02,East
+524,USB Drive,9,707.68,2024-12-09,Central
+525,Tablet,22,426.59,2024-12-17,Northeast
+526,Microwave,50,925.33,2023-02-11,North
+527,SSD,36,281.93,2022-02-19,Central
+528,Webcam,11,169.7,2022-02-01,Southwest
+529,Printer,28,82.08,2022-02-23,Northwest
+530,Network Card,10,149.63,2024-03-11,Southwest
+531,HDD,17,,2024-05-12,Southeast
+532,Laptop,5,808.01,2023-01-25,East
+533,Power Supply,44,168.46,2024-02-04,Northwest
+534,Headphones,12,17.53,2023-08-05,Southeast
+535,Watch,48,744.88,2024-12-21,Southwest
+536,Network Card,43,277.64,2024-02-13,
+537,Mouse,35,548.39,2024-11-02,East
+538,Mouse,35,,2023-11-04,Southwest
+539,T-Shirt,30,403.2,2023-11-18,East
+540,Keyboard,49,504.0,2022-02-28,Southeast
+541,Bag,1,582.99,2022-02-26,Southwest
+542,Novel,24,,2024-11-18,Southwest
+543,Pen,22,388.53,2022-12-27,Southeast
+544,Desk,4,992.97,2022-12-16,Central
+545,Smartphone,28,338.45,2022-02-14,North
+546,Notebook,30,264.21,2024-02-13,Central
+547,USB Drive,41,464.92,2023-11-27,Northeast
+548,Jacket,16,19.1,2022-02-05,South
+549,Hat,21,794.39,2022-12-20,Northwest
+550,Office Chair,19,530.84,2022-02-21,Southwest
+551,CPU,3,242.79,2022-11-28,Northwest
+552,Dictionary,28,390.07,2022-11-01,Southwest
+553,Novel,13,219.35,2023-12-04,Southwest
+554,Printer,15,516.45,2022-02-21,Northeast
+555,Hat,48,585.16,2023-02-04,North
+556,Microphone,15,793.78,2023-01-06,Southwest
+557,SSD,24,349.87,2022-02-04,Northeast
+558,Office Chair,29,,2024-01-14,West
+559,Microwave,19,,2022-02-03,Northwest
+560,GPU,29,827.66,2023-11-01,Central
+561,Paper,1,844.98,2023-11-06,Northwest
+562,Dictionary,19,155.84,2022-01-17,Northwest
+563,Network Card,22,249.46,2022-02-28,Northeast
+564,Speaker,10,737.35,2022-11-06,Northwest
+565,Power Supply,17,486.5,2023-07-11,East
+566,CPU,40,180.47,2024-02-14,East
+567,Washing Machine,37,670.93,2022-01-05,Central
+568,Folder,9,411.77,2024-01-15,South
+569,Pen,40,,2024-11-21,Northwest
+570,Desktop,45,977.77,2024-11-17,Southwest
+571,Keyboard,38,942.14,2022-02-26,East
+572,Folder,50,382.94,2022-12-10,Central
+573,Novel,45,463.16,2024-12-03,West
+574,External HDD,41,153.3,2023-05-10,East
+575,Mouse,46,403.34,2023-11-28,Northwest
+576,Cooling Fan,42,247.73,2023-01-28,West
+577,Microwave,40,665.74,2023-11-24,Northeast
+578,CPU,46,130.83,2022-02-20,Southwest
+579,Office Chair,29,50.05,2022-05-26,West
+580,Washing Machine,17,762.06,2024-12-10,Northeast
+581,SSD,16,862.48,2024-12-04,Southwest
+582,Desktop,28,283.74,2022-01-08,Northeast
+583,TV,48,667.94,2024-02-13,Northeast
+584,Tablet,6,203.74,2024-02-17,West
+585,Scanner,43,,2024-01-12,Northwest
+586,Paper,11,,2024-12-20,North
+587,Graphics Card,15,330.21,2024-03-04,Central
+588,Pen,40,722.15,2023-01-12,North
+589,Bag,16,,2022-01-27,Northeast
+590,Dictionary,8,62.22,2024-12-25,Southwest
+591,Tablet,33,150.22,2023-05-02,North
+592,Shoes,49,234.6,2022-01-09,West
+593,Dictionary,22,919.2,2024-01-28,East
+594,Washing Machine,39,969.74,2024-11-25,South
+595,Jacket,11,932.11,2023-07-12,North
+596,Refrigerator,24,544.06,2023-03-01,North
+597,Scanner,45,174.2,2023-11-17,West
+598,Cooling Fan,31,,2022-12-01,Northwest
+599,RAM,11,241.45,2024-01-17,North
+600,Printer,16,733.01,2022-05-02,Southwest
+601,Smartphone,21,,2023-10-13,West
+602,Watch,30,555.42,2024-02-17,South
+603,RAM,16,920.26,2023-11-15,Central
+604,RAM,9,763.65,2023-01-08,Southeast
+605,CPU,1,130.12,2023-12-27,Southwest
+606,Printer,19,366.94,2023-11-28,North
+607,Magazine,6,996.22,2023-05-17,South
+608,Headphones,31,285.18,2024-11-23,Northeast
+609,Power Supply,30,362.52,2022-12-28,Northeast
+610,Printer,42,338.63,2023-01-14,Central
+611,Smartphone,49,211.7,2022-02-19,West
+612,Mouse,19,617.78,2024-01-24,Southwest
+613,HDD,24,598.49,2022-11-16,
+614,USB Drive,6,271.44,2022-05-01,Northeast
+615,Printer,38,747.89,2022-12-22,Northwest
+616,Monitor,20,521.36,2022-02-26,East
+617,Graphics Card,35,113.92,2022-11-09,Northeast
+618,Scanner,10,970.16,2023-01-03,North
+619,Refrigerator,9,496.16,2022-12-19,West
+620,SSD,1,98.13,2022-12-06,East
+621,Printer,2,365.68,2023-11-04,West
+622,Refrigerator,4,,2023-01-22,East
+623,Calculator,3,447.73,2023-12-02,Central
+624,Paper,1,855.91,2024-11-05,East
+625,Bag,30,268.24,2022-01-20,East
+626,Network Card,34,339.94,2024-11-16,South
+627,Pen,24,516.42,2022-02-25,Northwest
+628,Programming Book,12,693.29,2022-11-24,South
+629,Washing Machine,7,,2024-02-10,Northeast
+630,Speaker,44,743.04,2023-04-08,
+631,Keyboard,29,386.26,2024-01-05,Northeast
+632,TV,28,858.38,2022-12-15,East
+633,Magazine,43,658.32,2023-11-15,East
+634,Bag,37,204.52,2022-12-13,North
+635,Pen,42,,2023-04-01,Southwest
+636,Jeans,43,347.14,2024-07-17,West
+637,Pen,10,,2024-08-19,South
+638,USB Drive,40,363.12,2024-01-23,East
+639,Notebook,39,202.36,2023-10-25,Southwest
+640,Desktop,37,99.55,2023-04-11,Central
+641,Network Card,35,375.94,2022-12-16,Central
+642,Power Supply,18,727.44,2024-12-05,North
+643,Power Supply,8,637.17,2023-11-16,Central
+644,Novel,15,999.85,2024-03-06,Northeast
+645,External HDD,30,783.99,2023-02-08,
+646,Cooling Fan,32,885.65,2023-10-14,West
+647,Textbook,10,746.31,2024-11-20,Central
+648,Keyboard,48,147.08,2023-11-20,Northwest
+649,Refrigerator,43,265.2,2022-02-11,Southeast
+650,Refrigerator,44,891.67,2022-01-17,Central
+651,Keyboard,22,603.89,2022-11-16,Central
+652,External HDD,27,455.98,2023-05-06,East
+653,Webcam,10,755.52,2022-12-06,Northeast
+654,Scanner,3,182.19,2022-12-19,North
+655,RAM,28,93.74,2024-06-21,North
+656,Shoes,4,296.59,2022-12-10,Central
+657,Shoes,4,317.29,2023-11-17,Northeast
+658,T-Shirt,22,144.69,2024-11-02,West
+659,Network Card,22,91.2,2024-11-19,Northeast
+660,Cooling Fan,3,154.17,2023-09-21,South
+661,Desk,25,373.85,2023-11-02,North
+662,GPU,21,820.32,2024-12-06,Central
+663,SSD,23,376.75,2024-11-10,Northwest
+664,Laptop,8,442.54,2023-11-03,West
+665,Monitor,42,376.81,2024-11-23,Southwest
+666,External HDD,38,276.43,2022-08-21,Central
+667,TV,10,384.88,2022-03-22,Northwest
+668,Programming Book,27,604.58,2022-01-22,Central
+669,HDD,18,836.23,2024-01-28,East
+670,Folder,19,304.0,2023-02-03,South
+671,Speaker,25,27.52,2023-01-26,Central
+672,Washing Machine,16,686.1,2023-02-20,East
+673,RAM,12,272.43,2023-01-20,Southeast
+674,Desk,26,,2023-03-08,Southwest
+675,SSD,2,763.45,2023-08-06,North
+676,USB Drive,31,237.95,2024-11-21,Central
+677,Watch,31,,2023-02-10,Southeast
+678,Office Chair,22,811.39,2022-02-14,West
+679,Cooling Fan,22,874.79,2023-02-17,North
+680,Laptop,38,42.04,2024-01-02,Central
+681,Textbook,25,358.99,2022-12-17,Central
+682,Smartphone,11,805.38,2023-12-24,Northeast
+683,Watch,20,320.63,2024-01-28,Southeast
+684,T-Shirt,15,389.44,2024-12-08,South
+685,TV,24,614.04,2024-01-16,Southwest
+686,Folder,40,154.5,2022-01-22,North
+687,Desktop,37,265.89,2024-03-12,North
+688,Washing Machine,3,111.83,2024-12-27,
+689,USB Drive,19,965.21,2024-11-09,Central
+690,Monitor,17,175.02,2023-02-12,East
+691,Washing Machine,35,489.12,2024-05-02,North
+692,Microwave,21,605.94,2023-11-04,Southwest
+693,Scanner,37,,2024-12-12,Northwest
+694,Network Card,46,,2023-01-06,West
+695,T-Shirt,50,19.54,2024-11-17,East
+696,Air Conditioner,7,959.39,2022-02-10,East
+697,Hat,34,626.84,2023-11-15,Northwest
+698,Bag,22,972.58,2022-02-27,Southwest
+699,Laptop,4,311.93,2023-09-07,North
+700,Microphone,12,,2024-02-21,North
+701,SSD,30,876.92,2022-12-12,East
+702,Laptop,32,347.89,2024-01-15,South
+703,CPU,6,625.34,2022-05-24,Southeast
+704,Desk,44,504.4,2024-09-15,Northeast
+705,Magazine,16,294.74,2023-01-04,East
+706,Jacket,15,,2022-12-09,North
+707,CPU,31,176.77,2023-09-12,South
+708,Office Chair,35,892.33,2023-12-16,Northwest
+709,USB Drive,23,960.37,2024-11-23,South
+710,Textbook,21,36.0,2023-12-15,
+711,HDD,35,385.21,2024-08-26,North
+712,Washing Machine,46,496.27,2023-01-27,Northeast
+713,External HDD,18,758.32,2024-09-02,North
+714,Jeans,19,751.09,2024-01-07,East
+715,CPU,46,98.31,2024-12-21,North
+716,Power Supply,18,247.41,2024-05-20,Northwest
+717,Novel,29,92.58,2022-06-01,Southeast
+718,Power Supply,17,195.8,2024-01-22,South
+719,External HDD,38,140.66,2024-12-12,Southwest
+720,Shoes,8,,2022-12-08,Northwest
+721,SSD,50,,2023-11-21,Central
+722,CPU,31,642.07,2023-11-05,North
+723,Headphones,29,420.93,2024-02-28,East
+724,Calculator,27,899.69,2023-12-08,
+725,Shoes,7,452.47,2024-11-11,Southeast
+726,Jacket,1,,2022-01-15,South
+727,SSD,2,750.09,2023-11-23,Northeast
+728,Headphones,36,884.27,2022-11-16,Southeast
+729,T-Shirt,12,901.19,2024-08-12,Southwest
+730,Mouse,8,697.15,2022-11-25,Southeast
+731,Folder,49,546.34,2023-11-08,South
+732,Calculator,49,369.55,2023-02-18,Southeast
+733,Hat,30,577.92,2022-08-17,West
+734,Hat,21,398.36,2024-02-06,Southwest
+735,Paper,6,189.48,2022-08-19,Northeast
+736,Calculator,29,44.03,2022-01-03,South
+737,Notebook,20,907.7,2023-12-25,Central
+738,USB Drive,42,126.71,2022-01-22,West
+739,Microwave,22,261.14,2023-01-02,West
+740,Notebook,16,383.68,2022-01-01,
+741,Hat,23,556.96,2023-11-07,South
+742,Monitor,46,618.17,2023-01-03,Northeast
+743,Smartphone,9,717.09,2022-10-07,Northeast
+744,Mouse,8,925.07,2024-11-22,Northeast
+745,Monitor,37,91.55,2022-04-21,East
+746,Motherboard,7,743.06,2024-12-10,West
+747,Paper,5,371.88,2023-11-22,North
+748,Calculator,28,996.5,2023-02-04,Northwest
+749,External HDD,47,206.64,2022-12-24,East
+750,TV,1,684.26,2024-02-26,Southwest
+751,Air Conditioner,45,508.48,2022-12-23,East
+752,Microwave,6,674.31,2023-11-01,South
+753,Folder,7,427.5,2023-07-18,South
+754,GPU,40,495.11,2023-12-03,Northeast
+755,GPU,25,429.42,2024-02-18,
+756,Calculator,22,581.89,2024-12-08,Northwest
+757,GPU,9,209.3,2024-10-01,Southwest
+758,Tablet,42,90.84,2024-11-03,North
+759,External HDD,41,538.56,2022-06-13,Northwest
+760,Refrigerator,47,,2024-12-23,Southwest
+761,Notebook,46,396.86,2022-02-08,Northeast
+762,Washing Machine,45,701.83,2023-03-20,West
+763,T-Shirt,42,222.51,2022-05-11,North
+764,Programming Book,39,200.82,2024-06-19,South
+765,Hat,42,772.69,2024-11-17,South
+766,Graphics Card,48,264.76,2024-11-04,East
+767,GPU,27,119.12,2024-11-10,West
+768,RAM,6,411.85,2024-11-25,Southeast
+769,Office Chair,26,146.33,2022-02-22,West
+770,Headphones,10,708.72,2024-01-27,Northwest
+771,GPU,44,721.61,2022-08-11,South
+772,T-Shirt,23,439.44,2023-11-10,West
+773,Headphones,12,758.89,2022-07-26,Southwest
+774,Motherboard,38,774.18,2022-12-26,Northwest
+775,Monitor,10,338.18,2023-12-12,South
+776,Programming Book,32,849.43,2022-11-22,West
+777,TV,40,911.36,2024-12-18,East
+778,Jeans,7,390.02,2022-11-05,Southwest
+779,Tablet,7,35.14,2022-12-08,South
+780,HDD,13,742.43,2023-06-19,West
+781,Tablet,40,225.44,2024-02-11,East
+782,Motherboard,11,242.36,2022-12-24,Northwest
+783,SSD,9,677.31,2022-01-05,Northwest
+784,Bag,46,215.88,2022-02-24,South
+785,External HDD,27,511.1,2024-01-18,East
+786,Folder,14,41.9,2022-01-25,South
+787,SSD,11,206.49,2023-11-23,Northwest
+788,Laptop,33,,2024-09-18,North
+789,Air Conditioner,39,855.18,2024-07-13,West
+790,Novel,7,787.36,2022-11-24,South
+791,Microwave,14,918.67,2023-10-24,Southwest
+792,Notebook,6,378.69,2022-01-24,Southwest
+793,Watch,6,491.22,2023-04-20,Southeast
+794,Desktop,19,560.65,2022-01-09,
+795,Laptop,24,992.44,2023-11-27,North
+796,Calculator,17,831.07,2023-03-26,North
+797,Shoes,38,31.0,2022-12-21,East
+798,Jacket,3,228.16,2024-09-09,Southeast
+799,Hat,25,617.99,2022-12-18,South
+800,Mouse,36,83.1,2024-02-06,South
+801,Calculator,46,510.56,2023-12-09,South
+802,Power Supply,42,687.31,2022-01-16,Northwest
+803,Network Card,11,338.33,2023-11-11,Southeast
+804,Webcam,4,743.23,2023-08-15,Northeast
+805,Folder,40,459.24,2022-04-28,North
+806,Power Supply,14,971.21,2023-11-13,Southwest
+807,Desk,17,777.0,2023-12-16,South
+808,Microphone,16,937.38,2024-12-12,Northwest
+809,Office Chair,21,305.74,2023-01-05,Northeast
+810,Motherboard,22,705.75,2022-08-08,Northwest
+811,Paper,22,,2022-09-24,East
+812,Desk,10,91.25,2023-04-04,South
+813,Programming Book,45,680.95,2023-12-28,North
+814,Textbook,50,860.03,2022-01-11,Central
+815,Textbook,7,468.64,2024-11-08,South
+816,Air Conditioner,36,172.32,2022-12-01,Northeast
+817,Laptop,6,837.1,2023-06-17,Southeast
+818,Monitor,7,797.99,2024-12-05,Southeast
+819,Dictionary,26,,2022-01-10,Northeast
+820,Webcam,25,166.66,2022-12-24,South
+821,Headphones,5,110.95,2022-12-12,Northeast
+822,USB Drive,42,935.65,2022-11-25,Northwest
+823,Jeans,41,,2023-12-17,East
+824,Monitor,14,465.69,2024-09-14,Southwest
+825,Washing Machine,11,266.2,2023-08-06,Northwest
+826,Dictionary,15,550.71,2022-05-25,Southeast
+827,Paper,2,887.93,2023-09-17,South
+828,Notebook,7,116.47,2022-11-05,
+829,Air Conditioner,41,496.93,2023-12-15,Southeast
+830,Scanner,2,213.45,2022-05-05,East
+831,Washing Machine,39,590.65,2023-02-27,East
+832,USB Drive,5,212.13,2023-01-15,North
+833,Jacket,37,225.45,2024-02-15,South
+834,Microphone,19,658.92,2024-02-22,Southeast
+835,Novel,44,390.18,2022-12-05,West
+836,Notebook,42,60.62,2023-04-24,West
+837,Watch,31,332.57,2023-01-08,East
+838,Laptop,1,424.93,2024-02-14,South
+839,Magazine,6,948.04,2023-12-01,South
+840,T-Shirt,10,793.96,2022-12-08,
+841,Tablet,22,92.32,2023-02-17,South
+842,Tablet,10,,2024-05-22,Northeast
+843,TV,32,930.95,2022-02-22,Northwest
+844,Mouse,20,,2024-11-18,Southwest
+845,Hat,3,436.96,2023-12-23,Southwest
+846,RAM,28,506.81,2022-01-17,Southeast
+847,Scanner,41,844.37,2022-11-18,East
+848,Laptop,43,448.42,2022-02-27,Southeast
+849,Monitor,49,930.14,2022-01-01,Northwest
+850,Monitor,32,247.68,2024-12-02,West
+851,External HDD,8,573.13,2022-03-04,East
+852,Desk,46,419.68,2022-12-25,Northeast
+853,Notebook,1,480.08,2024-11-15,Southeast
+854,USB Drive,4,35.4,2023-06-15,East
+855,Laptop,18,457.12,2023-12-20,East
+856,Printer,23,118.97,2024-01-06,Northwest
+857,Notebook,17,283.13,2022-02-20,Central
+858,Printer,23,202.54,2024-11-15,Southeast
+859,Pen,25,27.4,2022-11-21,Northwest
+860,Calculator,16,265.05,2022-08-22,East
+861,Programming Book,32,807.16,2022-02-27,Northwest
+862,HDD,50,,2023-01-26,North
+863,Network Card,27,535.1,2024-05-08,West
+864,Desktop,49,658.17,2023-12-16,South
+865,SSD,31,124.81,2023-01-11,Northeast
+866,Desktop,3,240.43,2024-11-18,Northeast
+867,Desk,38,121.91,2022-06-07,West
+868,Headphones,35,263.09,2024-11-12,Southwest
+869,Textbook,1,517.67,2024-03-19,West
+870,Magazine,14,912.64,2024-12-19,Southeast
+871,Headphones,14,,2023-04-03,Southeast
+872,Keyboard,26,871.62,2022-12-01,Central
+873,Watch,34,855.36,2023-10-17,South
+874,RAM,10,467.91,2024-01-12,Southeast
+875,TV,44,434.49,2022-02-04,Northwest
+876,Watch,5,422.26,2024-05-26,North
+877,USB Drive,14,,2023-01-05,Southeast
+878,Microphone,17,700.15,2022-08-19,Southeast
+879,USB Drive,1,89.19,2023-02-27,Northeast
+880,SSD,35,795.53,2022-08-01,Northwest
+881,Tablet,6,824.52,2022-01-19,Central
+882,GPU,30,583.2,2024-12-23,West
+883,Textbook,22,537.46,2022-12-20,Northeast
+884,Programming Book,2,414.48,2024-07-04,Southwest
+885,Jeans,24,969.28,2023-04-07,East
+886,USB Drive,43,,2024-02-21,East
+887,Watch,7,157.6,2024-12-21,Southeast
+888,Scanner,37,,2023-02-13,Southwest
+889,USB Drive,12,631.7,2024-03-11,South
+890,Keyboard,34,858.14,2024-05-22,
+891,Jeans,19,495.68,2023-05-16,Central
+892,Novel,27,654.53,2022-11-15,North
+893,Webcam,40,975.02,2022-11-03,South
+894,Speaker,9,84.28,2023-12-28,Southeast
+895,Cooling Fan,33,25.18,2022-01-11,Northwest
+896,Mouse,34,614.37,2024-01-27,North
+897,Dictionary,40,985.41,2023-12-17,West
+898,T-Shirt,15,388.53,2022-11-11,Central
+899,GPU,30,99.88,2024-11-23,East
+900,Pen,14,892.86,2023-11-25,North
+901,Headphones,9,995.66,2023-11-11,West
+902,CPU,41,482.42,2023-02-10,North
+903,Microphone,2,403.0,2024-03-21,Southeast
+904,Jacket,2,510.02,2022-01-19,Central
+905,HDD,30,968.12,2024-08-26,Northeast
+906,RAM,42,374.13,2024-01-06,South
+907,Mouse,42,278.52,2024-12-24,Central
+908,Webcam,27,913.09,2022-09-07,East
+909,TV,33,221.2,2022-04-06,Northwest
+910,Tablet,18,375.49,2022-08-02,North
+911,CPU,47,988.49,2024-12-26,North
+912,Speaker,10,,2024-11-10,West
+913,TV,47,921.44,2022-11-05,Southwest
+914,Folder,21,12.18,2022-01-13,East
+915,Watch,11,813.57,2023-02-06,Central
+916,Power Supply,47,696.72,2022-05-16,East
+917,Refrigerator,41,478.77,2023-02-26,Southwest
+918,Jeans,12,,2023-01-14,Southwest
+919,Air Conditioner,31,999.52,2023-02-16,South
+920,Paper,22,560.91,2023-02-02,Southwest
+921,HDD,42,593.17,2023-07-11,Southwest
+922,Calculator,43,823.28,2022-02-26,Southeast
+923,Webcam,32,,2023-02-18,Northwest
+924,Graphics Card,30,750.57,2023-01-18,Southeast
+925,Paper,11,630.24,2022-02-22,South
+926,CPU,31,282.32,2022-01-19,East
+927,TV,15,614.72,2022-01-05,South
+928,Notebook,9,80.0,2024-09-04,West
+929,Network Card,21,121.63,2023-07-25,Northeast
+930,Printer,1,128.11,2023-12-12,South
+931,Keyboard,32,795.35,2023-12-20,Northeast
+932,T-Shirt,32,715.24,2024-02-07,Southeast
+933,Scanner,28,873.36,2023-01-06,Southwest
+934,Desk,36,387.28,2022-05-05,Southeast
+935,Desk,15,,2024-01-28,North
+936,External HDD,9,519.61,2022-12-22,Southwest
+937,Motherboard,23,140.27,2022-11-03,Southwest
+938,Paper,9,369.7,2022-12-17,Central
+939,CPU,25,637.4,2022-11-24,Northwest
+940,Graphics Card,35,964.02,2023-12-21,South
+941,Shoes,32,336.1,2022-02-24,Southeast
+942,Jeans,4,322.11,2024-11-06,
+943,Network Card,5,36.31,2023-11-13,North
+944,Desk,48,230.83,2024-02-12,Northwest
+945,Dictionary,42,179.65,2023-09-17,
+946,RAM,24,689.94,2022-11-09,Central
+947,External HDD,48,503.81,2023-12-26,Southeast
+948,Dictionary,44,587.51,2022-09-08,North
+949,TV,46,909.79,2022-11-17,Southeast
+950,Graphics Card,39,418.33,2023-02-06,Southeast
+951,Speaker,8,381.0,2023-02-08,North
+952,Graphics Card,1,537.79,2023-02-19,Central
+953,Network Card,22,645.79,2024-01-13,Southwest
+954,Graphics Card,6,796.68,2022-11-22,North
+955,Bag,11,638.77,2024-01-26,East
+956,USB Drive,2,395.0,2023-08-14,Southwest
+957,Novel,48,884.32,2024-02-19,East
+958,Pen,45,185.93,2024-12-23,Northwest
+959,Pen,49,482.22,2024-11-12,Southwest
+960,Power Supply,1,912.11,2022-02-02,South
+961,Jacket,7,714.6,2023-12-21,Northwest
+962,Textbook,12,484.76,2023-11-28,North
+963,RAM,37,660.4,2024-11-02,Northwest
+964,Webcam,1,126.86,2024-06-03,South
+965,Motherboard,5,361.47,2022-04-19,Northeast
+966,Microwave,49,788.5,2024-05-05,East
+967,Notebook,32,300.16,2024-01-24,Central
+968,Shoes,36,,2024-05-13,South
+969,Textbook,23,546.73,2023-01-20,Northwest
+970,Laptop,12,862.82,2023-02-03,North
+971,Cooling Fan,15,,2024-02-09,Southwest
+972,Bag,11,605.39,2023-12-13,Southeast
+973,Webcam,29,943.7,2022-12-09,Northwest
+974,Shoes,9,210.67,2024-12-15,North
+975,Cooling Fan,50,912.4,2023-01-07,South
+976,TV,8,644.94,2023-12-22,West
+977,Calculator,5,527.02,2024-01-20,South
+978,Microphone,1,,2022-02-21,Southeast
+979,Jeans,3,435.66,2024-11-16,Southeast
+980,TV,29,884.69,2022-02-21,Central
+981,Cooling Fan,1,308.01,2024-12-18,East
+982,Desk,13,84.74,2022-12-06,Northwest
+983,Desk,41,849.66,2022-02-10,Northeast
+984,Dictionary,35,25.98,2022-11-06,West
+985,Folder,2,82.74,2024-01-04,Central
+986,Motherboard,12,823.26,2024-11-06,South
+987,Paper,26,512.62,2023-12-19,Southwest
+988,T-Shirt,46,898.84,2023-11-17,
+989,Novel,11,233.14,2024-01-05,West
+990,Power Supply,21,708.19,2023-11-05,East
+991,Air Conditioner,50,512.88,2022-01-04,Southwest
+992,Air Conditioner,28,697.05,2022-11-03,West
+993,Calculator,21,279.38,2023-11-27,
+994,Hat,25,269.39,2024-02-10,Southwest
+995,Scanner,16,,2023-01-19,East
+996,T-Shirt,44,486.64,2022-11-14,West
+997,Watch,30,54.49,2024-11-05,Northwest
+998,HDD,22,424.25,2023-01-02,Southwest
+999,External HDD,5,339.48,2024-01-02,Southeast
+1000,Power Supply,44,138.29,2022-02-28,South
+1001,Motherboard,32,246.63,2024-12-27,
+1002,Folder,4,781.39,2022-08-01,Southeast
+1003,Jeans,27,454.81,2023-11-13,East
+1004,Headphones,14,,2022-12-24,Southwest
+1005,USB Drive,50,,2023-12-26,Southwest
+1006,Graphics Card,24,491.5,2024-04-08,West
+1007,GPU,4,560.09,2022-02-28,West
+1008,External HDD,23,368.43,2022-12-28,Central
+1009,Air Conditioner,43,352.41,2024-01-13,East
+1010,Headphones,10,513.14,2022-12-17,Northeast
+1011,Desk,12,479.73,2024-02-24,South
+1012,Pen,45,640.56,2023-11-23,
+1013,Network Card,13,296.06,2024-01-01,North
+1014,Headphones,40,100.81,2023-03-11,West
+1015,Pen,5,193.47,2022-01-07,South
+1016,External HDD,10,944.1,2024-06-18,East
+1017,Paper,50,,2022-02-08,Southwest
+1018,Monitor,27,429.74,2024-02-25,Northwest
+1019,Desktop,11,,2022-01-02,
+1020,Jacket,4,250.86,2024-12-14,North
+1021,Monitor,44,688.88,2024-02-14,Central
+1022,Hat,34,442.17,2023-07-18,West
+1023,External HDD,28,,2023-08-15,Southeast
+1024,Graphics Card,2,380.5,2024-02-04,West
+1025,Cooling Fan,8,170.65,2024-12-11,Southeast
+1026,Network Card,19,217.67,2023-11-03,
+1027,Keyboard,2,312.16,2024-11-14,Southeast
+1028,Webcam,42,848.88,2023-07-16,West
+1029,Keyboard,49,699.29,2022-12-07,
+1030,Mouse,11,746.52,2022-11-13,Northeast
+1031,Folder,32,21.18,2022-02-21,Southeast
+1032,Graphics Card,31,394.18,2023-01-23,Southeast
+1033,Shoes,9,128.45,2022-01-04,Southeast
+1034,Office Chair,38,988.22,2022-12-22,East
+1035,CPU,41,926.16,2022-07-26,Northeast
+1036,Headphones,27,458.21,2022-02-04,West
+1037,External HDD,35,,2022-12-15,Northeast
+1038,CPU,9,570.77,2023-03-18,Northeast
+1039,Washing Machine,4,205.03,2023-07-22,East
+1040,Paper,24,,2022-02-02,South
+1041,Notebook,40,63.34,2024-02-28,Southeast
+1042,Washing Machine,26,760.21,2023-01-25,Southeast
+1043,Jacket,22,447.94,2024-02-06,Southeast
+1044,Microphone,45,725.57,2024-01-13,
+1045,Webcam,17,243.58,2023-12-08,Southeast
+1046,Folder,6,590.96,2024-11-07,Southwest
+1047,GPU,29,,2023-02-20,North
+1048,Scanner,40,296.77,2023-01-09,Northeast
+1049,Speaker,40,,2024-02-22,East
+1050,Desktop,16,657.2,2023-11-10,Northeast
+1051,Network Card,22,24.02,2022-11-01,Central
+1052,Office Chair,49,724.33,2022-01-11,Northwest
+1053,Dictionary,24,408.45,2022-12-09,
+1054,Microwave,20,453.45,2022-06-17,North
+1055,Novel,47,34.14,2023-11-28,North
+1056,Air Conditioner,13,129.3,2023-12-15,Northeast
+1057,Headphones,37,917.33,2024-01-16,East
+1058,Pen,25,507.42,2022-03-27,Central
+1059,Dictionary,23,961.14,2024-01-14,South
+1060,Watch,19,955.27,2022-12-27,Northwest
+1061,Power Supply,10,979.88,2022-01-10,Southwest
+1062,Notebook,10,955.43,2023-01-05,East
+1063,Motherboard,46,,2024-02-17,Northwest
+1064,USB Drive,16,328.29,2023-12-02,East
+1065,CPU,7,931.62,2022-11-10,Southwest
+1066,Microwave,40,,2024-02-27,North
+1067,Dictionary,22,713.18,2024-03-16,Southeast
+1068,Speaker,8,777.35,2024-11-28,Central
+1069,Dictionary,23,838.19,2024-02-28,East
+1070,Microphone,46,828.34,2023-11-02,Southwest
+1071,Paper,44,,2024-11-16,Southwest
+1072,Office Chair,38,305.56,2023-09-23,West
+1073,Speaker,9,214.11,2023-02-18,North
+1074,Programming Book,18,252.58,2024-11-20,
+1075,Office Chair,24,389.74,2024-09-14,Northeast
+1076,SSD,23,10.56,2024-12-13,Northwest
+1077,Keyboard,25,212.3,2024-01-25,South
+1078,SSD,1,761.71,2023-12-09,Northeast
+1079,Keyboard,1,812.89,2023-11-02,Northeast
+1080,Microphone,11,795.34,2023-12-15,West
+1081,SSD,45,200.09,2023-11-13,Northwest
+1082,Washing Machine,33,212.84,2024-10-07,West
+1083,Microwave,49,129.54,2024-12-25,
+1084,Headphones,12,940.02,2022-04-06,Northwest
+1085,Calculator,26,922.49,2022-11-06,Southwest
+1086,Microwave,8,864.13,2024-04-02,Southeast
+1087,Speaker,17,,2024-01-16,Central
+1088,TV,1,326.19,2024-03-10,Southeast
+1089,Motherboard,20,511.17,2023-03-12,Northeast
+1090,Tablet,24,81.35,2024-01-16,West
+1091,Programming Book,3,622.58,2023-12-20,Northwest
+1092,Desktop,27,56.37,2022-01-10,
+1093,CPU,45,431.7,2022-12-26,West
+1094,Office Chair,9,643.49,2022-01-28,Northwest
+1095,Desktop,5,210.99,2023-01-28,South
+1096,Dictionary,45,719.69,2024-11-20,Northwest
+1097,Microwave,33,542.66,2024-02-21,Northeast
+1098,Graphics Card,2,153.31,2022-12-19,
+1099,TV,17,368.13,2024-11-12,Central
+1100,Smartphone,18,363.26,2024-12-03,West
+1101,Printer,9,,2024-11-02,Northeast
+1102,Calculator,49,230.07,2022-04-13,Southeast
+1103,T-Shirt,34,187.28,2024-01-26,South
+1104,Desktop,15,221.06,2024-05-19,South
+1105,Office Chair,9,53.17,2024-11-24,Central
+1106,Programming Book,10,255.2,2024-09-28,East
+1107,Desktop,34,83.17,2023-11-24,North
+1108,Graphics Card,14,,2024-02-16,Southeast
+1109,Notebook,22,872.61,2022-05-05,Southwest
+1110,Webcam,3,177.07,2023-02-05,Southeast
+1111,Bag,30,,2024-02-27,
+1112,CPU,33,285.32,2022-12-28,North
+1113,Novel,13,878.38,2024-02-28,Central
+1114,Desktop,34,292.03,2024-01-25,West
+1115,GPU,30,807.36,2024-11-28,Northwest
+1116,Webcam,27,532.13,2023-01-01,Northeast
+1117,Textbook,10,634.29,2023-09-18,Northwest
+1118,Tablet,45,576.44,2023-01-25,Northeast
+1119,Calculator,2,641.8,2024-02-24,Central
+1120,Microwave,15,560.62,2023-01-09,Southwest
+1121,TV,18,975.44,2023-01-07,South
+1122,Cooling Fan,7,,2024-01-21,Southeast
+1123,Pen,37,116.72,2024-10-27,West
+1124,Desktop,48,601.66,2023-01-28,Northeast
+1125,Programming Book,8,90.96,2023-01-24,
+1126,Webcam,34,433.68,2024-12-26,East
+1127,Calculator,24,989.05,2022-02-23,West
+1128,Network Card,32,931.32,2022-02-11,
+1129,Microphone,31,617.56,2022-02-21,West
+1130,Dictionary,12,887.05,2024-01-06,
+1131,Dictionary,28,454.77,2024-12-08,West
+1132,Speaker,20,279.86,2023-08-21,
+1133,Washing Machine,8,121.57,2022-11-08,North
+1134,Calculator,49,197.84,2023-12-15,
+1135,Monitor,15,65.66,2023-11-11,North
+1136,Programming Book,8,,2023-02-26,Northwest
+1137,Office Chair,24,651.63,2022-12-14,Northeast
+1138,Programming Book,33,382.83,2024-01-23,Northwest
+1139,Magazine,28,258.34,2023-12-13,Southwest
+1140,Smartphone,48,169.19,2022-01-11,South
+1141,Monitor,23,371.61,2023-05-10,Southeast
+1142,HDD,45,871.89,2023-10-01,North
+1143,TV,15,983.19,2022-02-15,East
+1144,SSD,21,381.51,2022-02-13,West
+1145,SSD,35,10.09,2024-04-21,Northwest
+1146,Paper,9,816.78,2022-06-10,Northwest
+1147,Network Card,3,671.83,2022-02-01,Northeast
+1148,Microwave,23,62.83,2023-11-14,Central
+1149,Desk,14,514.15,2023-09-09,Northwest
+1150,Smartphone,49,52.32,2023-01-02,Central
+1151,Graphics Card,15,708.2,2022-12-26,West
+1152,Paper,36,,2023-02-25,Northwest
+1153,Paper,27,598.85,2023-02-14,South
+1154,Power Supply,12,256.4,2024-10-28,
+1155,GPU,25,405.79,2023-01-28,South
+1156,RAM,23,,2023-02-17,Central
+1157,Graphics Card,45,633.06,2023-11-22,Northwest
+1158,USB Drive,29,,2023-02-05,North
+1159,Textbook,11,374.64,2024-11-06,North
+1160,Notebook,49,579.23,2022-01-21,West
+1161,Magazine,42,323.91,2022-02-14,Central
+1162,GPU,26,916.95,2023-01-20,Central
+1163,Jeans,43,997.22,2023-11-10,Southwest
+1164,Scanner,49,808.51,2023-11-20,West
+1165,Smartphone,10,202.46,2023-12-19,
+1166,Headphones,9,174.72,2022-02-15,Northwest
+1167,Jeans,27,352.63,2023-11-21,Southeast
+1168,RAM,2,,2022-07-09,Southwest
+1169,Textbook,39,494.44,2022-12-27,West
+1170,USB Drive,2,14.27,2022-12-13,Northeast
+1171,Webcam,19,163.39,2022-12-11,
+1172,Keyboard,6,934.72,2024-11-22,North
+1173,Programming Book,19,121.98,2023-01-13,Northeast
+1174,Desktop,37,518.88,2024-11-10,North
+1175,Textbook,14,,2024-01-23,Northwest
+1176,Programming Book,9,613.22,2023-07-04,East
+1177,Washing Machine,24,61.59,2024-02-15,North
+1178,Mouse,46,,2024-01-04,Northwest
+1179,Washing Machine,23,356.99,2022-12-25,Central
+1180,Shoes,26,48.62,2024-03-20,South
+1181,External HDD,25,167.36,2024-07-22,Northwest
+1182,Mouse,26,153.72,2023-01-03,East
+1183,Power Supply,42,,2024-06-28,West
+1184,Refrigerator,28,550.44,2023-07-23,Northwest
+1185,Headphones,36,494.99,2023-02-18,Northeast
+1186,External HDD,26,,2023-01-26,Southwest
+1187,Shoes,39,188.82,2023-11-13,Northeast
+1188,External HDD,43,296.55,2022-12-28,Northwest
+1189,Microwave,14,166.5,2022-01-22,East
+1190,External HDD,1,974.82,2024-12-23,East
+1191,USB Drive,3,464.79,2022-11-28,
+1192,Speaker,25,,2024-12-26,Northeast
+1193,SSD,14,,2024-11-17,South
+1194,Cooling Fan,45,,2023-02-08,Northwest
+1195,Network Card,18,269.53,2023-11-06,Northeast
+1196,Jacket,21,102.03,2024-01-08,Central
+1197,USB Drive,31,421.83,2022-12-03,Northwest
+1198,Desktop,35,560.72,2024-01-07,Northeast
+1199,Graphics Card,13,407.34,2023-11-10,Southeast
+1200,RAM,13,32.73,2022-01-23,Southeast
+1201,RAM,22,976.61,2023-01-05,South
+1202,Shoes,21,472.25,2024-08-02,North
+1203,Programming Book,25,286.74,2022-01-28,
+1204,Watch,41,970.7,2023-02-06,Northeast
+1205,Power Supply,45,360.46,2022-05-04,Northeast
+1206,CPU,12,162.56,2024-12-11,South
+1207,Tablet,15,838.4,2022-11-12,Northeast
+1208,Monitor,11,264.57,2024-12-16,South
+1209,USB Drive,2,624.61,2023-11-13,East
+1210,SSD,24,35.39,2024-12-06,South
+1211,Magazine,14,805.36,2022-01-20,South
+1212,Tablet,32,639.13,2022-11-10,Southeast
+1213,Notebook,42,822.65,2022-11-05,Southwest
+1214,Textbook,3,491.26,2023-02-07,Northeast
+1215,Printer,23,659.27,2024-11-22,Northwest
+1216,Dictionary,42,519.27,2023-12-18,Southwest
+1217,Novel,45,550.0,2023-02-26,Southwest
+1218,Laptop,15,325.53,2023-01-03,South
+1219,Watch,23,788.71,2024-12-10,South
+1220,Microwave,17,931.85,2024-12-23,Southeast
+1221,Jacket,44,539.59,2022-05-03,Northwest
+1222,TV,29,948.05,2023-05-18,
+1223,Hat,14,705.68,2024-12-04,Southwest
+1224,Speaker,48,963.63,2024-06-02,North
+1225,Microwave,37,,2023-01-21,Northwest
+1226,Desktop,38,359.48,2023-11-05,Southeast
+1227,Keyboard,28,849.03,2022-12-12,East
+1228,Smartphone,46,332.57,2024-11-22,Northwest
+1229,Scanner,36,412.23,2023-03-19,East
+1230,Cooling Fan,1,705.47,2022-12-26,Central
+1231,Refrigerator,4,604.84,2023-02-20,Central
+1232,Notebook,47,287.32,2022-04-28,North
+1233,Pen,40,812.02,2024-02-05,North
+1234,Mouse,48,,2023-08-06,Northeast
+1235,Tablet,1,733.19,2023-07-07,Southeast
+1236,RAM,44,,2022-12-27,Northeast
+1237,Air Conditioner,33,808.25,2023-12-18,Central
+1238,Printer,6,33.46,2023-08-08,Southwest
+1239,Watch,21,209.81,2023-01-22,Northwest
+1240,GPU,41,534.03,2023-12-05,East
+1241,Laptop,18,179.1,2024-04-01,West
+1242,Bag,38,943.79,2022-02-04,North
+1243,Folder,15,772.0,2024-06-16,West
+1244,Watch,46,528.39,2024-09-02,Southwest
+1245,External HDD,24,487.38,2023-02-12,Central
+1246,CPU,50,644.03,2023-11-12,East
+1247,Air Conditioner,29,,2024-10-25,Central
+1248,SSD,47,,2024-01-06,Southeast
+1249,Air Conditioner,11,125.13,2022-11-03,Northwest
+1250,Webcam,44,929.96,2023-11-28,Southwest
+1251,Jeans,32,977.07,2024-06-18,South
+1252,Novel,31,929.4,2022-01-14,Northwest
+1253,Monitor,46,469.89,2024-01-01,Southwest
+1254,Dictionary,45,433.39,2024-11-09,Southeast
+1255,Scanner,47,241.18,2022-10-18,Northwest
+1256,Mouse,23,271.64,2024-12-28,Central
+1257,Novel,11,847.87,2024-01-04,South
+1258,Hat,14,50.44,2022-11-12,East
+1259,Microphone,43,188.46,2023-01-25,Northeast
+1260,Microphone,25,872.2,2022-02-02,Northwest
+1261,RAM,34,862.18,2024-02-23,West
+1262,Monitor,49,624.2,2023-08-12,Central
+1263,Calculator,18,187.69,2024-02-04,South
+1264,Tablet,34,543.29,2022-11-22,South
+1265,Network Card,21,894.04,2022-02-23,Southwest
+1266,GPU,16,263.75,2023-02-22,South
+1267,Network Card,20,777.79,2022-02-06,Southeast
+1268,Shoes,36,160.14,2023-02-24,Northwest
+1269,Calculator,18,,2024-02-16,East
+1270,Keyboard,8,,2023-11-15,Southwest
+1271,Textbook,13,342.68,2022-03-20,Northeast
+1272,Air Conditioner,40,966.55,2023-11-06,
+1273,Jacket,18,496.73,2023-01-01,East
+1274,Programming Book,24,876.41,2022-12-11,East
+1275,Air Conditioner,20,575.28,2023-02-03,South
+1276,Microwave,37,913.32,2023-11-05,Northeast
+1277,Folder,30,457.18,2024-12-12,East
+1278,USB Drive,50,161.39,2024-12-23,East
+1279,Graphics Card,12,856.35,2023-06-12,Central
+1280,Printer,38,266.8,2023-11-16,West
+1281,Dictionary,48,35.51,2023-11-28,Central
+1282,Textbook,19,231.02,2023-01-13,South
+1283,HDD,36,65.6,2022-12-04,West
+1284,Laptop,1,355.55,2022-02-07,Central
+1285,Speaker,37,375.81,2024-01-12,West
+1286,Microwave,19,955.9,2022-11-17,Northeast
+1287,GPU,30,898.82,2024-02-04,East
+1288,Microwave,40,,2023-01-13,Northwest
+1289,Motherboard,16,130.03,2022-06-12,Southwest
+1290,Shoes,46,,2022-02-06,
+1291,Dictionary,8,478.39,2023-11-20,Southwest
+1292,Desk,10,630.92,2024-10-13,Central
+1293,Jeans,14,341.43,2022-12-02,East
+1294,USB Drive,2,953.9,2023-12-08,Northwest
+1295,Microwave,37,410.2,2023-04-02,Northwest
+1296,Watch,4,690.62,2023-01-24,West
+1297,TV,42,779.81,2022-12-09,Central
+1298,Power Supply,24,330.55,2023-11-04,West
+1299,Novel,15,170.79,2024-11-25,East
+1300,Novel,11,74.67,2023-09-11,East
+1301,CPU,9,299.44,2022-02-03,Southeast
+1302,Office Chair,18,320.78,2023-02-05,West
+1303,Webcam,24,786.14,2024-11-17,
+1304,Refrigerator,48,384.78,2022-03-13,Northwest
+1305,Microwave,23,795.8,2023-01-02,East
+1306,Webcam,44,134.96,2024-12-09,
+1307,Programming Book,2,982.22,2022-12-10,South
+1308,Network Card,16,636.05,2024-01-11,Southeast
+1309,Hat,37,878.29,2024-02-25,Southwest
+1310,Keyboard,4,,2024-12-25,Northwest
+1311,Scanner,48,964.5,2022-07-04,Northeast
+1312,Paper,12,721.64,2023-11-17,North
+1313,TV,40,655.82,2022-02-24,North
+1314,Microphone,7,439.6,2022-12-14,East
+1315,Watch,30,651.62,2022-12-10,Southeast
+1316,Laptop,48,337.98,2022-07-07,West
+1317,Cooling Fan,29,,2023-11-07,
+1318,HDD,6,,2022-01-10,West
+1319,Hat,26,990.45,2022-01-03,Southeast
+1320,Headphones,22,374.71,2024-02-21,East
+1321,Laptop,33,489.6,2022-08-09,North
+1322,Office Chair,43,869.13,2023-11-01,Southwest
+1323,Shoes,7,465.18,2022-11-01,East
+1324,Speaker,49,265.08,2024-01-24,North
+1325,HDD,15,147.36,2023-11-24,Southeast
+1326,Pen,11,570.29,2022-02-12,East
+1327,Washing Machine,46,291.97,2024-11-06,Central
+1328,Pen,32,774.92,2024-02-14,North
+1329,Microwave,2,,2022-01-11,Northwest
+1330,Printer,45,696.76,2024-12-04,East
+1331,Notebook,23,67.38,2022-12-12,Northeast
+1332,Jeans,19,243.32,2023-01-09,Southwest
+1333,Air Conditioner,42,,2022-12-16,North
+1334,Dictionary,15,,2022-11-09,South
+1335,Cooling Fan,29,210.35,2022-12-07,South
+1336,Desktop,1,452.24,2024-12-21,Central
+1337,Office Chair,27,941.78,2023-02-24,Northwest
+1338,Webcam,42,,2022-12-26,East
+1339,Novel,24,895.68,2022-11-06,Central
+1340,TV,17,59.74,2022-12-05,Northeast
+1341,Tablet,20,625.71,2023-02-17,
+1342,Watch,3,734.93,2023-11-27,Southeast
+1343,Jeans,23,910.3,2023-11-25,South
+1344,T-Shirt,5,34.26,2023-01-12,Northeast
+1345,Desk,1,411.44,2022-02-20,South
+1346,Jacket,47,826.58,2024-11-07,Northwest
+1347,Jacket,11,993.61,2024-01-28,Northwest
+1348,Laptop,25,211.63,2022-02-02,Northwest
+1349,Tablet,33,782.42,2023-07-22,Northeast
+1350,Washing Machine,46,236.27,2023-02-12,Northwest
+1351,Webcam,15,,2024-11-14,South
+1352,Tablet,32,685.05,2023-12-15,Northwest
+1353,Network Card,22,821.3,2022-01-28,South
+1354,USB Drive,34,282.5,2022-11-01,East
+1355,Shoes,25,16.9,2022-01-22,
+1356,Shoes,2,603.04,2023-11-22,West
+1357,Novel,33,74.72,2024-11-15,Southwest
+1358,Office Chair,23,805.34,2023-11-01,West
+1359,Keyboard,23,467.85,2024-11-27,South
+1360,Washing Machine,2,768.91,2024-11-11,Northwest
+1361,Power Supply,39,,2022-01-05,Northeast
+1362,T-Shirt,48,255.09,2023-11-17,
+1363,Microwave,29,782.67,2023-01-20,Northwest
+1364,Mouse,13,83.5,2023-01-22,South
+1365,Laptop,27,701.4,2024-11-02,East
+1366,Monitor,16,923.58,2024-12-20,Central
+1367,Monitor,33,633.6,2024-12-26,Northwest
+1368,Power Supply,25,219.65,2023-09-25,Northwest
+1369,Graphics Card,1,807.2,2024-06-11,Southeast
+1370,TV,17,487.21,2023-09-18,Southeast
+1371,CPU,10,,2022-01-23,
+1372,Programming Book,26,916.43,2024-01-05,Southeast
+1373,Refrigerator,17,,2023-12-08,
+1374,Bag,12,171.69,2023-12-25,Northeast
+1375,Calculator,50,245.71,2024-02-10,Central
+1376,Microwave,48,222.7,2022-02-07,Southwest
+1377,Shoes,17,171.65,2022-02-19,South
+1378,GPU,25,663.19,2022-01-07,
+1379,Monitor,13,,2023-02-25,Southwest
+1380,Refrigerator,45,927.79,2023-12-15,West
+1381,Programming Book,31,542.07,2022-12-03,Northwest
+1382,Magazine,8,64.75,2022-11-27,Central
+1383,Mouse,39,409.93,2022-07-14,North
+1384,Network Card,46,775.9,2022-06-04,West
+1385,Air Conditioner,18,502.49,2022-12-18,North
+1386,Washing Machine,38,247.29,2024-07-19,South
+1387,Calculator,3,120.69,2024-12-19,South
+1388,External HDD,10,,2024-08-13,West
+1389,Novel,12,543.36,2024-12-04,Northeast
+1390,Hat,5,349.32,2022-07-01,South
+1391,Motherboard,6,134.08,2022-12-13,Central
+1392,Headphones,43,772.73,2023-09-25,West
+1393,Keyboard,25,39.27,2024-11-09,East
+1394,Smartphone,38,10.39,2024-03-26,North
+1395,Microphone,22,83.57,2024-12-10,North
+1396,Dictionary,8,,2023-01-05,Southwest
+1397,Cooling Fan,48,239.3,2022-01-24,Northeast
+1398,Programming Book,30,345.48,2024-02-04,South
+1399,Notebook,25,731.7,2024-01-06,West
+1400,Refrigerator,49,,2022-04-22,East
+1401,Watch,11,960.56,2022-05-15,
+1402,Folder,37,200.11,2022-10-20,Northeast
+1403,Monitor,47,323.02,2023-11-27,Southeast
+1404,Mouse,47,507.72,2023-12-25,Southeast
+1405,Mouse,26,635.68,2024-02-14,West
+1406,Jeans,43,159.71,2023-01-08,Northwest
+1407,Mouse,40,927.08,2023-02-12,South
+1408,External HDD,6,445.78,2024-11-05,North
+1409,CPU,32,192.61,2022-11-01,East
+1410,Calculator,33,845.9,2023-11-23,Southeast
+1411,Power Supply,38,626.02,2022-10-12,Southeast
+1412,CPU,23,112.62,2023-01-14,Southwest
+1413,Printer,8,109.12,2024-08-21,Southwest
+1414,Magazine,19,499.4,2022-01-05,Northwest
+1415,Folder,19,853.81,2024-02-12,South
+1416,Mouse,19,23.53,2022-10-06,East
+1417,Tablet,6,955.22,2024-01-06,North
+1418,Tablet,7,558.9,2023-01-06,Northeast
+1419,TV,39,951.35,2022-11-16,Southwest
+1420,Cooling Fan,49,495.77,2023-04-17,Northwest
+1421,Office Chair,38,572.65,2023-12-07,North
+1422,Printer,49,,2024-02-12,Northwest
+1423,Jacket,49,905.31,2022-01-05,Northeast
+1424,Folder,11,895.68,2022-11-14,North
+1425,Air Conditioner,33,172.41,2023-11-21,North
+1426,Novel,34,616.31,2024-02-12,South
+1427,Keyboard,50,526.15,2023-12-08,Southeast
+1428,Motherboard,10,129.91,2023-12-28,Southwest
+1429,Scanner,1,769.19,2024-08-04,Northeast
+1430,Notebook,20,,2024-03-23,Northwest
+1431,Bag,21,592.06,2023-11-22,Southwest
+1432,Notebook,12,301.48,2024-05-06,West
+1433,Webcam,41,295.09,2023-12-12,West
+1434,Washing Machine,42,711.7,2022-02-03,Southeast
+1435,Desk,24,457.97,2023-01-25,Central
+1436,Dictionary,11,397.82,2024-12-11,South
+1437,Keyboard,24,857.59,2024-01-18,West
+1438,Microphone,15,754.52,2022-11-18,South
+1439,Power Supply,46,384.98,2022-02-18,East
+1440,Textbook,9,49.1,2022-11-17,Central
+1441,HDD,7,836.26,2024-07-21,East
+1442,External HDD,3,,2023-12-19,Southwest
+1443,Bag,7,170.44,2022-02-14,West
+1444,Pen,3,,2024-01-23,East
+1445,Desk,24,908.48,2023-02-15,Northwest
+1446,Refrigerator,27,329.12,2023-01-17,East
+1447,SSD,22,467.04,2022-11-16,Northeast
+1448,Bag,28,56.34,2024-09-19,Southeast
+1449,Network Card,26,570.58,2022-05-05,Southwest
+1450,Folder,39,882.4,2023-02-27,Northwest
+1451,Desk,7,939.53,2023-02-10,East
+1452,Laptop,41,,2023-02-09,Southwest
+1453,Jacket,21,216.27,2022-07-04,Northwest
+1454,Textbook,23,799.24,2022-11-10,West
+1455,Mouse,13,,2022-12-03,Northeast
+1456,Novel,2,518.66,2024-02-05,Central
+1457,Microphone,23,883.64,2023-06-21,Southwest
+1458,Monitor,47,246.88,2023-01-11,South
+1459,TV,1,691.03,2024-02-28,Southwest
+1460,Programming Book,18,532.0,2024-02-07,North
+1461,Power Supply,13,,2024-12-09,East
+1462,Monitor,18,593.47,2022-05-21,West
+1463,Notebook,17,91.04,2022-11-21,Northwest
+1464,Mouse,28,363.47,2024-11-21,Southeast
+1465,Magazine,30,533.17,2023-01-04,East
+1466,Tablet,10,847.9,2022-02-26,Central
+1467,Desk,9,533.26,2022-01-15,Central
+1468,Cooling Fan,41,407.17,2023-11-23,West
+1469,Microwave,16,350.26,2023-07-18,Central
+1470,Pen,48,448.66,2023-12-04,Southwest
+1471,Keyboard,45,686.39,2023-01-19,Southeast
+1472,Air Conditioner,36,265.58,2024-11-04,Central
+1473,Folder,19,143.6,2023-09-07,Southeast
+1474,Jacket,48,571.1,2024-11-21,Northeast
+1475,USB Drive,40,462.58,2024-11-26,South
+1476,Power Supply,18,669.26,2023-12-13,Northeast
+1477,Folder,33,429.29,2023-12-27,Southeast
+1478,Microphone,24,237.69,2022-01-18,South
+1479,USB Drive,24,762.21,2023-01-28,Northeast
+1480,Printer,17,,2023-01-08,
+1481,Monitor,34,241.11,2023-02-20,South
+1482,Paper,45,973.11,2022-02-21,Northeast
+1483,Cooling Fan,41,834.91,2023-02-15,Northeast
+1484,Mouse,38,964.04,2023-01-21,South
+1485,GPU,2,,2022-06-06,South
+1486,Microwave,50,317.54,2022-12-10,East
+1487,Shoes,50,562.24,2024-01-28,North
+1488,Jeans,41,24.1,2023-01-09,Northeast
+1489,Paper,42,313.71,2023-01-22,East
+1490,Watch,32,487.41,2024-11-28,Central
+1491,HDD,28,745.78,2024-11-08,Northeast
+1492,External HDD,11,919.02,2023-12-18,Southwest
+1493,Air Conditioner,14,,2022-11-28,
+1494,Bag,6,230.76,2024-12-24,North
+1495,SSD,22,786.97,2024-11-11,West
+1496,Keyboard,17,894.35,2022-02-11,West
+1497,Hat,47,901.23,2024-02-06,West
+1498,Novel,12,693.36,2022-11-26,Central
+1499,TV,43,572.78,2024-01-15,South
+1500,Watch,28,276.32,2024-01-20,West
+1501,Mouse,31,,2024-01-09,East
+1502,Cooling Fan,2,998.35,2024-05-15,West
+1503,Air Conditioner,45,,2023-01-28,Southeast
+1504,Bag,5,470.36,2024-01-25,East
+1505,Scanner,15,25.7,2023-11-11,South
+1506,Textbook,1,132.22,2023-12-01,Northeast
+1507,Cooling Fan,37,,2023-11-06,Northwest
+1508,Paper,3,432.31,2024-05-14,Central
+1509,Bag,30,243.58,2023-09-16,Central
+1510,T-Shirt,6,451.03,2023-01-10,East
+1511,RAM,2,14.51,2023-11-12,North
+1512,Graphics Card,8,188.48,2024-12-09,Southwest
+1513,Printer,49,512.1,2022-10-23,West
+1514,Speaker,18,530.67,2022-11-07,North
+1515,Refrigerator,45,997.44,2024-05-06,South
+1516,Headphones,19,430.03,2022-11-12,Central
+1517,Watch,1,65.52,2024-03-26,Central
+1518,Microwave,6,722.99,2022-11-27,Southeast
+1519,Printer,15,323.46,2022-10-15,Central
+1520,Printer,26,262.4,2023-11-25,Southwest
+1521,Mouse,41,100.07,2023-12-25,Southeast
+1522,Air Conditioner,28,263.25,2022-02-16,Central
+1523,Bag,7,239.35,2023-02-09,South
+1524,Air Conditioner,43,,2024-12-19,West
+1525,Motherboard,38,817.67,2022-02-18,South
+1526,Dictionary,10,83.87,2024-11-15,
+1527,Desktop,29,31.52,2022-11-11,North
+1528,Webcam,19,,2023-02-03,North
+1529,Notebook,23,636.73,2022-11-10,Northwest
+1530,Cooling Fan,46,,2023-01-24,Northwest
+1531,Paper,12,556.82,2023-02-24,Southwest
+1532,Jacket,3,29.18,2022-11-17,South
+1533,Tablet,33,419.85,2023-11-21,East
+1534,Pen,21,975.2,2023-11-17,Central
+1535,Motherboard,5,876.72,2023-11-13,South
+1536,Jacket,3,668.94,2023-11-24,Central
+1537,Dictionary,10,,2022-02-16,West
+1538,SSD,40,93.55,2022-12-01,Northwest
+1539,Programming Book,46,877.74,2022-11-04,Northwest
+1540,Laptop,28,,2023-06-05,Southeast
+1541,Shoes,43,75.55,2022-11-26,Central
+1542,GPU,15,672.43,2023-10-01,Northeast
+1543,Keyboard,16,936.17,2023-07-17,Southeast
+1544,Monitor,45,210.56,2024-01-15,Southeast
+1545,Dictionary,14,596.8,2023-12-16,West
+1546,Folder,24,61.27,2024-02-19,Southeast
+1547,Printer,8,816.94,2022-11-06,East
+1548,Shoes,3,160.96,2023-01-18,Northeast
+1549,Folder,8,176.95,2023-01-13,Southeast
+1550,Motherboard,4,691.01,2022-01-23,Northeast
+1551,Air Conditioner,44,,2024-02-14,East
+1552,Microphone,38,564.37,2022-09-23,Southwest
+1553,Smartphone,17,511.92,2024-06-15,Southwest
+1554,Jeans,33,329.81,2023-11-18,East
+1555,Laptop,41,95.98,2022-02-10,North
+1556,Mouse,23,707.42,2023-01-09,South
+1557,Bag,14,564.86,2024-11-13,Northeast
+1558,Shoes,47,123.89,2024-01-24,Central
+1559,Speaker,26,815.07,2023-12-21,West
+1560,Calculator,45,466.91,2022-11-21,West
+1561,Hat,1,719.39,2024-12-27,Southwest
+1562,Graphics Card,33,863.84,2023-11-09,South
+1563,Notebook,7,82.21,2023-02-19,Northeast
+1564,Tablet,25,583.59,2023-01-22,Northwest
+1565,GPU,18,451.54,2023-11-09,East
+1566,Jacket,30,883.22,2022-02-13,West
+1567,Mouse,19,56.64,2022-11-26,Northwest
+1568,Graphics Card,5,791.18,2022-01-12,
+1569,Smartphone,37,998.2,2023-01-25,Central
+1570,T-Shirt,45,966.19,2022-11-12,East
+1571,SSD,44,815.85,2022-01-16,Central
+1572,HDD,9,232.88,2022-02-12,Northeast
+1573,Paper,17,,2023-11-21,Southwest
+1574,Desktop,21,412.55,2023-12-26,
+1575,Power Supply,35,22.8,2022-10-28,West
+1576,RAM,41,,2024-04-04,South
+1577,SSD,15,,2024-01-25,
+1578,Tablet,46,,2024-08-14,West
+1579,Calculator,46,421.73,2022-12-07,North
+1580,Shoes,17,464.85,2024-01-22,Southwest
+1581,Graphics Card,48,471.25,2024-08-11,South
+1582,USB Drive,38,,2023-01-03,Southwest
+1583,Dictionary,6,399.04,2024-11-09,North
+1584,Graphics Card,4,57.37,2024-02-01,Northwest
+1585,Textbook,21,137.23,2023-01-02,Northeast
+1586,HDD,24,365.83,2023-11-13,West
+1587,CPU,20,380.35,2023-02-12,Northeast
+1588,Graphics Card,25,964.05,2024-02-28,East
+1589,Motherboard,34,,2023-05-13,North
+1590,Smartphone,30,874.25,2024-09-11,North
+1591,Mouse,44,122.58,2024-02-27,East
+1592,T-Shirt,16,726.8,2023-02-15,Northwest
+1593,Paper,10,,2024-07-24,Northeast
+1594,Air Conditioner,50,220.1,2024-11-19,
+1595,TV,38,,2024-12-21,Southeast
+1596,Pen,25,558.98,2023-04-25,Northwest
+1597,Tablet,50,477.37,2022-05-03,South
+1598,Desktop,36,602.32,2023-12-14,West
+1599,HDD,15,544.52,2022-11-25,
+1600,Magazine,17,414.92,2022-07-20,North
+1601,Notebook,1,314.74,2023-05-24,North
+1602,Paper,32,820.48,2023-06-24,Northeast
+1603,Notebook,8,732.73,2023-12-26,East
+1604,Air Conditioner,43,386.0,2024-01-21,Southwest
+1605,Notebook,43,,2023-11-21,Central
+1606,TV,28,812.9,2024-06-13,Southeast
+1607,Graphics Card,42,253.04,2023-12-06,West
+1608,Magazine,25,449.1,2024-12-07,Northwest
+1609,T-Shirt,28,,2024-02-04,Northeast
+1610,Network Card,45,625.17,2022-01-23,West
+1611,Jeans,24,524.72,2022-12-10,North
+1612,Desk,38,480.47,2022-11-10,North
+1613,External HDD,10,864.87,2022-02-07,East
+1614,Air Conditioner,11,805.02,2023-12-04,East
+1615,CPU,30,180.79,2024-12-18,Central
+1616,USB Drive,50,674.7,2023-11-10,Northeast
+1617,Headphones,11,233.41,2023-01-10,Northeast
+1618,SSD,30,821.76,2022-11-27,Northwest
+1619,Mouse,47,144.49,2023-12-16,South
+1620,SSD,5,140.86,2024-11-25,Southwest
+1621,Programming Book,5,145.97,2024-02-13,North
+1622,Laptop,25,658.79,2022-11-01,South
+1623,Refrigerator,38,742.83,2023-11-17,Southeast
+1624,Shoes,26,,2023-10-01,North
+1625,Speaker,17,333.5,2024-01-21,East
+1626,Shoes,36,446.99,2023-11-02,North
+1627,CPU,24,206.56,2024-09-02,Northwest
+1628,Power Supply,27,941.51,2023-12-13,Southeast
+1629,External HDD,33,633.97,2022-12-20,East
+1630,External HDD,42,224.14,2023-11-12,Northwest
+1631,RAM,19,,2024-01-05,South
+1632,Shoes,49,543.03,2022-05-05,Central
+1633,Cooling Fan,21,501.72,2023-12-28,
+1634,Folder,48,954.15,2022-01-14,Northeast
+1635,Bag,40,76.15,2023-11-18,Southeast
+1636,Watch,29,782.02,2022-11-19,South
+1637,Refrigerator,28,405.22,2022-01-15,Northwest
+1638,Calculator,1,486.97,2023-02-10,Southwest
+1639,Speaker,37,,2024-10-06,Northeast
+1640,Jeans,21,812.14,2023-01-14,South
+1641,Motherboard,16,,2024-11-02,West
+1642,Laptop,7,135.47,2023-02-07,Central
+1643,Smartphone,10,977.57,2023-01-13,North
+1644,Washing Machine,10,321.24,2023-12-14,East
+1645,TV,11,471.14,2022-11-09,Northwest
+1646,Pen,37,649.21,2024-12-27,Northeast
+1647,External HDD,17,465.4,2023-11-06,Southwest
+1648,Network Card,40,906.35,2024-11-03,Central
+1649,Office Chair,8,965.21,2023-11-06,Central
+1650,HDD,44,56.7,2024-12-19,South
+1651,Webcam,29,676.07,2024-11-07,South
+1652,Bag,35,842.88,2023-11-08,Northeast
+1653,Keyboard,8,492.89,2024-02-03,North
+1654,Washing Machine,39,557.39,2023-01-27,Southeast
+1655,Mouse,32,633.7,2023-04-14,East
+1656,Shoes,34,12.26,2023-12-27,West
+1657,HDD,26,,2023-11-24,Central
+1658,T-Shirt,24,741.59,2022-11-24,Central
+1659,Watch,21,305.47,2023-01-25,West
+1660,Textbook,2,84.9,2024-02-06,West
+1661,Textbook,41,264.61,2023-07-13,Southeast
+1662,Jacket,8,656.04,2024-01-28,Southwest
+1663,Dictionary,36,541.77,2022-01-16,Southwest
+1664,Headphones,17,852.79,2023-12-12,
+1665,Monitor,12,159.92,2023-11-16,North
+1666,Paper,2,982.46,2024-01-14,North
+1667,Dictionary,13,102.13,2023-12-03,Northeast
+1668,Notebook,27,590.55,2024-11-01,South
+1669,Calculator,17,125.18,2024-12-15,
+1670,Office Chair,2,226.33,2023-12-16,Central
+1671,HDD,47,199.87,2023-11-03,Southeast
+1672,Monitor,48,338.68,2023-03-06,West
+1673,CPU,30,253.23,2022-07-22,Northeast
+1674,Shoes,4,898.01,2022-02-02,
+1675,T-Shirt,16,,2022-01-23,Central
+1676,SSD,35,968.25,2023-01-14,Northwest
+1677,Watch,19,364.11,2022-12-05,Northwest
+1678,HDD,38,211.96,2024-07-19,Northwest
+1679,GPU,22,625.52,2023-09-27,South
+1680,Bag,41,344.12,2024-04-03,Central
+1681,Folder,43,373.86,2022-04-05,Southeast
+1682,Hat,13,617.52,2023-11-02,Northwest
+1683,Refrigerator,30,996.33,2022-02-25,West
+1684,Magazine,42,434.1,2022-11-07,South
+1685,Printer,42,483.1,2022-01-25,Southwest
+1686,GPU,14,199.38,2023-11-08,Central
+1687,Watch,12,511.7,2024-01-23,Northeast
+1688,Monitor,14,941.89,2024-03-06,Southwest
+1689,Textbook,3,747.0,2023-11-16,Central
+1690,Watch,9,81.66,2022-02-28,Southwest
+1691,Textbook,1,399.04,2024-10-06,Southwest
+1692,Headphones,47,524.04,2023-12-08,North
+1693,Pen,4,,2023-02-09,North
+1694,Network Card,50,438.14,2024-09-04,North
+1695,Watch,12,806.17,2024-05-15,Central
+1696,Washing Machine,37,295.17,2022-02-06,Northwest
+1697,Textbook,46,686.28,2023-02-16,Northwest
+1698,Webcam,18,737.79,2024-11-25,South
+1699,Magazine,22,580.31,2023-11-24,Southwest
+1700,RAM,46,935.9,2024-01-07,Southeast
+1701,Network Card,4,895.05,2023-02-10,Northeast
+1702,Hat,12,389.59,2023-11-20,Southeast
+1703,Novel,29,18.75,2023-12-20,East
+1704,Scanner,43,312.91,2023-12-12,North
+1705,Keyboard,11,388.12,2024-07-20,North
+1706,Microwave,43,313.55,2022-02-26,West
+1707,SSD,36,183.64,2023-08-04,Southwest
+1708,TV,18,471.3,2022-12-21,Northeast
+1709,Paper,13,210.91,2023-02-06,North
+1710,Monitor,13,671.42,2023-02-13,Southeast
+1711,RAM,15,,2023-01-06,Southwest
+1712,Printer,47,378.67,2023-11-23,Central
+1713,Power Supply,49,,2023-01-18,Northeast
+1714,Washing Machine,47,312.28,2022-02-28,Northwest
+1715,Jacket,30,697.47,2023-11-09,East
+1716,Folder,50,670.15,2023-12-15,Central
+1717,TV,40,649.94,2023-01-01,South
+1718,T-Shirt,40,411.77,2022-05-06,Northeast
+1719,Microphone,17,423.71,2023-12-18,Southeast
+1720,Paper,30,496.08,2024-01-28,
+1721,Webcam,32,930.03,2024-11-20,Southeast
+1722,Washing Machine,50,61.28,2023-11-18,Central
+1723,Desk,31,369.93,2022-02-10,East
+1724,Keyboard,47,861.26,2023-03-23,West
+1725,Paper,47,651.13,2023-02-09,Northeast
+1726,Programming Book,4,344.98,2022-12-09,Northeast
+1727,Office Chair,26,996.9,2023-12-28,
+1728,GPU,42,506.76,2023-11-03,North
+1729,Mouse,22,240.14,2022-02-11,Northwest
+1730,Bag,39,,2022-02-22,North
+1731,Washing Machine,11,852.72,2022-11-04,Southeast
+1732,Watch,47,,2024-02-23,East
+1733,Speaker,41,405.79,2022-12-02,Northwest
+1734,Keyboard,1,615.46,2024-01-01,Northwest
+1735,Hat,19,653.42,2024-07-05,East
+1736,Keyboard,45,443.15,2023-11-11,East
+1737,Keyboard,21,264.48,2024-02-27,Central
+1738,Webcam,12,,2022-11-09,Southeast
+1739,Refrigerator,18,714.22,2023-09-24,Northwest
+1740,Office Chair,36,103.69,2023-01-22,Northwest
+1741,Magazine,48,976.78,2023-12-09,East
+1742,Refrigerator,41,495.05,2023-02-10,Northeast
+1743,Shoes,38,891.4,2022-02-20,West
+1744,Speaker,22,735.31,2022-02-27,Southeast
+1745,Scanner,20,595.06,2024-02-28,West
+1746,SSD,48,195.52,2023-11-21,South
+1747,HDD,9,211.71,2022-07-21,East
+1748,Smartphone,8,456.69,2022-11-12,North
+1749,Dictionary,43,681.88,2023-12-25,East
+1750,Notebook,35,651.71,2024-02-13,North
+1751,Graphics Card,18,282.33,2022-11-05,Southwest
+1752,Motherboard,1,560.63,2022-02-23,Central
+1753,Washing Machine,6,,2024-12-23,Central
+1754,Network Card,10,682.66,2024-11-18,Northwest
+1755,Keyboard,49,753.39,2024-01-14,Northeast
+1756,Shoes,29,798.95,2024-11-17,North
+1757,Graphics Card,20,375.56,2024-02-04,Southeast
+1758,SSD,47,524.78,2024-02-18,Central
+1759,Network Card,11,331.3,2023-02-08,Northwest
+1760,Shoes,27,953.91,2024-02-28,Central
+1761,Headphones,44,702.09,2023-11-15,Northwest
+1762,Headphones,7,826.32,2022-12-26,Northeast
+1763,Speaker,8,137.82,2024-01-19,North
+1764,Air Conditioner,49,404.37,2024-01-12,Northwest
+1765,Network Card,50,,2024-12-04,Southwest
+1766,Headphones,50,652.31,2023-09-07,North
+1767,Novel,3,316.0,2024-11-09,Southeast
+1768,Office Chair,46,,2024-12-27,Southwest
+1769,SSD,41,505.27,2023-12-07,Southeast
+1770,Washing Machine,31,219.18,2023-01-09,Southeast
+1771,Watch,42,33.08,2024-11-26,South
+1772,SSD,21,464.29,2022-12-08,Central
+1773,Refrigerator,28,704.61,2022-12-23,Northeast
+1774,External HDD,12,793.15,2023-03-21,North
+1775,Tablet,43,349.09,2023-11-02,Central
+1776,Hat,3,950.94,2024-02-25,Northwest
+1777,Mouse,17,884.62,2023-01-04,Northwest
+1778,Notebook,11,689.92,2023-01-22,Northwest
+1779,Microwave,17,464.64,2023-02-08,
+1780,Washing Machine,27,11.89,2023-12-23,North
+1781,External HDD,22,350.75,2024-07-07,Northeast
+1782,Watch,45,349.63,2022-02-20,Southwest
+1783,Cooling Fan,1,479.48,2022-02-27,North
+1784,Laptop,11,,2023-11-07,West
+1785,Desktop,44,106.39,2024-02-12,Southeast
+1786,Power Supply,10,95.04,2022-12-17,East
+1787,Dictionary,50,216.01,2024-01-01,Southeast
+1788,Novel,1,141.6,2024-11-11,Northeast
+1789,Microwave,33,261.96,2023-11-08,
+1790,Smartphone,13,958.93,2024-02-18,
+1791,Jacket,33,597.98,2023-04-07,
+1792,Headphones,20,,2022-02-18,South
+1793,Cooling Fan,3,905.44,2023-11-13,Southwest
+1794,Speaker,2,793.57,2022-01-07,North
+1795,Notebook,10,842.46,2024-02-22,North
+1796,Paper,22,626.98,2024-11-12,Southeast
+1797,GPU,3,,2023-02-06,Southeast
+1798,Shoes,10,579.5,2023-02-05,East
+1799,Jacket,31,889.75,2022-02-24,Southeast
+1800,Network Card,39,981.27,2024-12-27,West
+1801,Jeans,50,453.65,2024-01-01,South
+1802,Laptop,16,561.34,2022-12-07,West
+1803,Graphics Card,7,67.03,2024-05-28,South
+1804,Webcam,41,356.04,2022-12-11,Northwest
+1805,Paper,39,503.66,2024-12-24,Northwest
+1806,Bag,1,432.4,2022-02-02,South
+1807,Paper,39,572.61,2022-04-28,Central
+1808,Dictionary,24,386.86,2022-06-02,East
+1809,Keyboard,30,537.99,2022-05-20,South
+1810,Tablet,30,371.53,2023-01-08,Northeast
+1811,Graphics Card,34,509.85,2023-08-15,South
+1812,Microwave,46,178.43,2023-11-19,West
+1813,Webcam,23,725.21,2023-11-26,
+1814,Graphics Card,13,42.22,2023-01-09,North
+1815,Power Supply,50,252.25,2024-04-02,East
+1816,Microwave,22,,2024-11-14,Southwest
+1817,Keyboard,19,136.45,2024-02-10,West
+1818,Keyboard,18,64.42,2022-02-26,North
+1819,Watch,4,859.81,2023-04-15,Southwest
+1820,Laptop,19,454.66,2023-11-20,Southeast
+1821,Microphone,29,721.38,2024-02-24,North
+1822,Network Card,6,618.02,2022-03-16,Southeast
+1823,Refrigerator,35,114.7,2024-01-27,East
+1824,External HDD,20,119.28,2023-01-27,East
+1825,External HDD,43,,2024-07-11,East
+1826,Scanner,43,83.55,2023-01-16,Central
+1827,Refrigerator,48,468.73,2022-11-17,Northeast
+1828,Headphones,17,894.09,2024-11-04,Central
+1829,Refrigerator,37,,2022-10-12,Central
+1830,Bag,30,646.51,2024-01-07,South
+1831,Printer,22,604.21,2024-01-08,
+1832,Smartphone,20,182.17,2023-12-07,Northeast
+1833,Pen,28,756.52,2023-12-06,East
+1834,Jeans,32,518.06,2024-02-15,South
+1835,Laptop,44,688.41,2024-02-05,
+1836,Watch,5,802.84,2024-10-20,Southwest
+1837,RAM,5,798.63,2024-12-09,Southeast
+1838,Webcam,50,314.43,2023-12-06,North
+1839,Calculator,30,,2024-10-14,Southeast
+1840,Headphones,5,603.24,2022-06-18,Northeast
+1841,Network Card,36,504.84,2024-02-28,Southeast
+1842,Bag,9,388.86,2024-01-10,North
+1843,Webcam,25,483.22,2024-11-19,Southwest
+1844,Pen,13,475.58,2024-12-28,
+1845,Desk,9,478.12,2024-02-13,Central
+1846,Office Chair,42,,2024-02-17,Northeast
+1847,Paper,29,231.22,2023-01-05,Northwest
+1848,Hat,45,726.86,2023-12-21,North
+1849,Desktop,7,,2023-01-01,Southwest
+1850,External HDD,30,148.91,2022-12-12,Central
+1851,Textbook,46,989.2,2024-04-01,Southwest
+1852,SSD,34,617.85,2024-01-14,Northwest
+1853,Desktop,6,942.03,2022-12-04,Northwest
+1854,Office Chair,30,958.91,2024-11-07,Central
+1855,Magazine,17,431.8,2024-12-01,South
+1856,Paper,3,751.77,2022-12-11,Northeast
+1857,Laptop,1,969.7,2023-12-05,East
+1858,Shoes,4,332.17,2024-09-08,East
+1859,Mouse,12,28.43,2023-01-01,Northeast
+1860,Scanner,15,502.82,2023-11-23,Northeast
+1861,Laptop,37,920.67,2022-02-24,Southeast
+1862,RAM,28,988.37,2023-01-07,Southwest
+1863,Cooling Fan,5,860.58,2024-02-10,Northeast
+1864,Webcam,25,599.23,2024-12-19,North
+1865,Webcam,20,299.71,2022-02-18,Southwest
+1866,Motherboard,28,674.5,2024-12-21,Southwest
+1867,Pen,44,444.41,2022-11-07,Southeast
+1868,Desk,9,921.29,2024-01-05,Southeast
+1869,Refrigerator,44,758.45,2023-06-22,Southeast
+1870,Hat,17,592.23,2023-12-19,Northwest
+1871,SSD,27,308.34,2024-01-05,Southwest
+1872,Novel,37,919.47,2023-12-20,South
+1873,Desk,19,643.09,2023-11-15,Southeast
+1874,CPU,4,685.53,2022-12-18,West
+1875,Jacket,45,669.56,2024-11-01,Southeast
+1876,Motherboard,23,669.46,2024-12-05,Northwest
+1877,Novel,7,,2022-05-09,Southeast
+1878,Hat,10,385.48,2024-02-26,Northeast
+1879,Calculator,44,173.91,2022-09-05,Northwest
+1880,Headphones,34,854.01,2022-02-06,South
+1881,Folder,25,178.87,2024-02-16,Central
+1882,Washing Machine,19,830.19,2023-01-09,North
+1883,Microwave,44,642.25,2023-12-12,North
+1884,Folder,42,764.47,2024-05-04,Northeast
+1885,SSD,32,420.63,2023-02-18,
+1886,Desktop,48,537.84,2022-01-22,Northwest
+1887,Smartphone,10,,2023-01-24,West
+1888,Refrigerator,36,858.23,2022-01-21,Southeast
+1889,Refrigerator,15,161.01,2022-02-17,Southeast
+1890,Laptop,32,175.85,2022-01-18,Northwest
+1891,Paper,34,574.34,2022-01-17,East
+1892,Keyboard,35,368.81,2024-12-09,West
+1893,Dictionary,3,482.57,2024-01-14,Northwest
+1894,Pen,41,162.1,2024-01-12,West
+1895,Scanner,6,852.03,2023-01-11,Central
+1896,Webcam,36,264.5,2024-02-13,Central
+1897,Dictionary,39,75.4,2024-12-19,Northeast
+1898,Microphone,11,400.41,2024-06-07,Northwest
+1899,HDD,3,,2024-03-22,Northwest
+1900,CPU,43,257.34,2022-02-27,Northeast
+1901,Desk,32,181.64,2023-12-25,
+1902,Network Card,30,155.02,2022-06-07,West
+1903,Headphones,26,269.75,2024-02-11,Northwest
+1904,Microwave,29,477.87,2023-01-11,
+1905,Microwave,12,685.77,2022-04-08,East
+1906,TV,49,20.59,2022-01-26,
+1907,Novel,38,823.71,2022-12-27,Northeast
+1908,External HDD,21,209.84,2023-01-18,Southwest
+1909,Pen,4,341.12,2024-05-25,East
+1910,Keyboard,11,849.1,2022-10-05,North
+1911,Headphones,2,755.94,2023-01-16,Southwest
+1912,Scanner,11,,2022-05-08,North
+1913,Laptop,9,,2023-03-15,North
+1914,USB Drive,3,,2022-01-23,Southwest
+1915,CPU,21,,2022-06-17,Northwest
+1916,Novel,7,238.65,2022-01-02,South
+1917,Programming Book,15,15.76,2022-07-17,North
+1918,Calculator,5,279.33,2024-11-23,Central
+1919,Shoes,44,515.98,2024-01-17,West
+1920,T-Shirt,47,672.9,2024-01-23,Southwest
+1921,HDD,2,175.14,2024-12-11,Central
+1922,Programming Book,36,702.3,2024-09-08,Southeast
+1923,Printer,27,476.37,2022-12-08,East
+1924,Desk,41,845.97,2023-02-10,North
+1925,Folder,41,112.46,2022-11-07,North
+1926,Calculator,48,597.14,2024-11-22,West
+1927,SSD,15,68.28,2022-02-21,Southwest
+1928,Folder,11,43.56,2024-02-12,Central
+1929,Washing Machine,8,906.7,2023-01-17,Northwest
+1930,SSD,29,275.16,2023-08-27,Northwest
+1931,Jeans,50,585.54,2024-02-21,Northeast
+1932,Power Supply,37,151.43,2022-01-28,Southeast
+1933,Jeans,46,195.34,2024-01-23,North
+1934,Textbook,6,652.08,2024-02-19,Northeast
+1935,Jeans,33,659.09,2022-11-10,
+1936,Notebook,37,204.85,2024-01-08,Central
+1937,Graphics Card,7,922.53,2022-11-24,West
+1938,Air Conditioner,11,712.12,2023-03-28,West
+1939,Webcam,18,513.93,2023-02-28,East
+1940,Power Supply,22,657.65,2022-05-15,East
+1941,Shoes,23,814.87,2024-01-27,South
+1942,Power Supply,40,914.61,2024-02-04,South
+1943,Desktop,45,686.57,2022-08-07,East
+1944,CPU,28,793.47,2022-02-07,Southwest
+1945,Microphone,16,16.04,2022-06-28,Southeast
+1946,Mouse,22,978.29,2022-01-05,South
+1947,T-Shirt,10,373.79,2024-01-01,North
+1948,Calculator,45,221.84,2022-02-16,North
+1949,Office Chair,26,779.48,2023-12-05,Northwest
+1950,Keyboard,21,24.68,2022-07-09,
+1951,Scanner,2,,2022-01-25,Central
+1952,Programming Book,23,148.24,2023-06-17,West
+1953,Novel,1,641.5,2024-02-03,Southeast
+1954,Dictionary,30,195.71,2022-12-18,
+1955,Magazine,47,909.1,2022-03-17,South
+1956,Printer,6,424.14,2022-12-03,East
+1957,Folder,49,124.96,2023-01-05,Southwest
+1958,RAM,37,241.82,2022-11-01,Southwest
+1959,Graphics Card,37,119.39,2022-08-09,Southwest
+1960,Textbook,13,750.42,2024-02-15,North
+1961,Printer,6,604.95,2022-12-26,
+1962,Novel,22,573.97,2024-10-17,Northeast
+1963,Cooling Fan,18,271.23,2022-02-03,Southeast
+1964,SSD,46,269.24,2023-02-19,North
+1965,USB Drive,10,787.84,2023-08-02,Southwest
+1966,Webcam,10,38.65,2023-04-25,Northwest
+1967,Scanner,15,907.55,2022-02-04,Northeast
+1968,TV,45,,2024-01-01,Northwest
+1969,Power Supply,19,128.48,2023-01-01,West
+1970,Folder,43,49.37,2023-08-27,Northwest
+1971,Jacket,36,328.18,2022-11-02,North
+1972,Shoes,26,712.49,2024-12-22,East
+1973,HDD,50,836.5,2022-01-26,Northwest
+1974,HDD,39,951.42,2024-10-08,Northwest
+1975,Network Card,5,920.96,2024-12-22,Southwest
+1976,Pen,1,,2023-11-10,West
+1977,Novel,32,92.85,2023-12-18,Northeast
+1978,Monitor,27,740.25,2022-02-04,Northeast
+1979,Keyboard,22,430.1,2022-11-20,East
+1980,Cooling Fan,25,,2022-12-21,South
+1981,Washing Machine,12,546.93,2023-01-18,Northeast
+1982,Laptop,2,,2022-11-20,Northeast
+1983,Hat,17,796.54,2022-11-16,Central
+1984,Magazine,22,148.16,2023-06-13,South
+1985,Bag,24,279.44,2022-11-21,East
+1986,Printer,26,522.26,2023-09-01,
+1987,Notebook,37,684.41,2022-02-05,Northeast
+1988,Smartphone,17,476.36,2024-12-11,Southeast
+1989,Novel,34,764.71,2024-05-03,West
+1990,USB Drive,35,719.42,2022-11-13,Northeast
+1991,Hat,48,673.21,2024-03-06,North
+1992,Power Supply,39,191.77,2023-07-20,Southeast
+1993,Monitor,23,456.38,2022-05-21,Southwest
+1994,Textbook,14,993.06,2024-05-27,Southeast
+1995,Laptop,50,329.68,2022-12-12,North
+1996,Desktop,22,850.75,2024-01-27,Southeast
+1997,Dictionary,41,564.92,2024-01-23,Southwest
+1998,Graphics Card,18,24.73,2023-05-05,West
+1999,GPU,8,48.1,2022-02-12,Southwest
+2000,Graphics Card,10,681.29,2024-01-03,Northeast
+2001,Graphics Card,18,,2022-03-20,South
+2002,Jacket,45,26.79,2024-09-12,Northeast
+2003,HDD,41,905.32,2022-02-11,Northwest
+2004,Dictionary,3,923.13,2023-02-01,West
+2005,Bag,42,119.63,2023-01-17,Northwest
+2006,CPU,21,838.59,2023-01-02,Southwest
+2007,USB Drive,2,,2024-10-03,Southeast
+2008,HDD,23,950.18,2022-02-13,East
+2009,Microwave,16,,2024-11-25,West
+2010,Motherboard,28,384.4,2022-06-16,East
+2011,SSD,44,679.3,2023-09-04,East
+2012,Shoes,20,99.27,2024-06-05,South
+2013,Network Card,20,308.32,2024-10-02,Central
+2014,Magazine,34,,2022-12-03,Northeast
+2015,Scanner,20,,2022-02-06,Southwest
+2016,Desk,19,267.3,2023-10-24,Northeast
+2017,Watch,41,,2022-06-13,Northwest
+2018,Network Card,40,293.39,2024-10-07,Central
+2019,Laptop,33,385.27,2024-03-25,East
+2020,USB Drive,10,968.42,2022-11-03,Northeast
+2021,Air Conditioner,20,518.58,2023-11-26,Southeast
+2022,Folder,15,75.13,2022-12-18,Southwest
+2023,Tablet,31,22.77,2024-11-01,Northeast
+2024,Scanner,20,463.37,2024-01-08,Northeast
+2025,Magazine,6,96.32,2023-01-18,West
+2026,Laptop,44,699.65,2022-02-01,North
+2027,Scanner,26,874.89,2024-01-07,Southeast
+2028,Keyboard,8,543.66,2024-12-13,Northeast
+2029,Folder,23,742.44,2024-06-25,North
+2030,Folder,46,982.75,2022-01-28,North
+2031,Microphone,21,263.76,2022-11-27,Northwest
+2032,Cooling Fan,42,645.88,2022-01-25,Northeast
+2033,Monitor,47,504.95,2023-11-25,Southeast
+2034,USB Drive,35,894.06,2023-11-15,East
+2035,Network Card,28,111.07,2024-01-15,South
+2036,CPU,3,,2024-02-22,Northwest
+2037,CPU,34,486.22,2022-12-17,West
+2038,Air Conditioner,46,652.6,2023-11-21,Northwest
+2039,Tablet,1,251.79,2024-01-03,
+2040,CPU,12,930.94,2024-02-21,
+2041,Refrigerator,19,980.04,2022-12-11,Southwest
+2042,Microphone,9,582.47,2024-07-18,Northwest
+2043,Desk,5,953.05,2024-01-12,Central
+2044,Shoes,13,201.79,2022-11-11,South
+2045,Air Conditioner,35,,2023-02-09,West
+2046,Calculator,2,948.14,2023-01-06,Southeast
+2047,Scanner,50,620.83,2023-02-28,Central
+2048,Smartphone,24,569.92,2022-02-20,Southeast
+2049,Keyboard,18,395.34,2022-11-14,Northeast
+2050,Shoes,10,317.74,2023-02-06,East
+2051,Paper,17,303.03,2024-12-09,East
+2052,Novel,46,987.9,2024-11-19,Central
+2053,Jeans,23,904.98,2022-02-25,Northeast
+2054,Headphones,39,437.93,2024-02-05,South
+2055,Air Conditioner,41,797.59,2023-01-23,Southwest
+2056,SSD,27,,2022-11-24,South
+2057,External HDD,20,234.12,2022-04-07,Southwest
+2058,Washing Machine,6,770.12,2022-02-26,
+2059,Shoes,7,958.55,2024-11-17,Central
+2060,Power Supply,22,724.42,2022-01-05,West
+2061,Notebook,32,,2022-11-20,East
+2062,Headphones,3,134.76,2023-12-24,Southeast
+2063,Notebook,32,516.59,2023-01-15,South
+2064,GPU,22,,2022-10-21,Southeast
+2065,Speaker,48,642.62,2022-07-23,North
+2066,RAM,17,337.27,2023-01-16,East
+2067,Graphics Card,45,597.75,2022-01-25,Southwest
+2068,TV,6,169.28,2023-11-08,Central
+2069,Bag,3,794.76,2022-12-24,East
+2070,Jeans,20,192.27,2022-07-19,Central
+2071,Hat,7,955.35,2024-02-15,Northeast
+2072,Air Conditioner,4,517.82,2024-11-23,Central
+2073,Office Chair,38,612.31,2024-12-24,East
+2074,Mouse,22,933.3,2023-01-19,Northeast
+2075,Keyboard,8,,2024-01-10,Southeast
+2076,Folder,4,844.72,2024-12-27,Northeast
+2077,Tablet,41,246.26,2022-02-19,East
+2078,TV,49,430.96,2023-11-02,North
+2079,Monitor,14,597.64,2024-01-13,Northwest
+2080,Magazine,3,,2022-12-28,South
+2081,Keyboard,35,924.52,2023-02-13,South
+2082,SSD,1,666.7,2023-08-12,Southwest
+2083,Keyboard,21,835.89,2022-01-23,South
+2084,Jeans,10,848.88,2024-12-16,West
+2085,Desk,12,396.78,2022-02-11,North
+2086,Refrigerator,18,342.28,2023-01-15,South
+2087,Air Conditioner,26,757.76,2024-12-27,West
+2088,Network Card,45,,2024-01-28,East
+2089,Textbook,27,281.72,2023-01-04,Northwest
+2090,Folder,50,62.48,2024-07-17,Northeast
+2091,Shoes,23,690.18,2022-11-09,Northwest
+2092,CPU,48,888.25,2022-12-26,Central
+2093,Mouse,11,265.11,2024-06-15,East
+2094,Pen,41,545.47,2023-02-03,Northwest
+2095,Notebook,31,103.04,2023-02-13,North
+2096,SSD,35,288.67,2022-02-28,North
+2097,Watch,14,935.02,2022-03-07,Central
+2098,Pen,11,435.23,2022-08-26,East
+2099,Bag,3,286.16,2022-02-28,Northeast
+2100,CPU,36,561.41,2024-12-26,Southeast
+2101,Dictionary,46,94.24,2022-01-03,North
+2102,Magazine,38,350.24,2022-02-07,Northwest
+2103,TV,37,16.94,2023-11-14,North
+2104,Folder,47,262.36,2022-12-20,Southeast
+2105,Novel,23,645.72,2022-12-07,Southeast
+2106,Graphics Card,31,93.61,2024-11-22,Southwest
+2107,Watch,34,318.5,2022-03-22,Northeast
+2108,Desk,12,372.81,2024-01-10,Central
+2109,Washing Machine,22,849.78,2022-12-15,Northeast
+2110,Tablet,5,115.87,2022-01-10,Central
+2111,Desk,30,815.17,2023-04-25,Central
+2112,Webcam,15,140.29,2022-09-06,West
+2113,T-Shirt,41,971.2,2022-02-27,West
+2114,Refrigerator,17,,2022-11-03,Southwest
+2115,RAM,48,917.83,2022-12-13,West
+2116,Cooling Fan,29,647.72,2023-01-28,East
+2117,Cooling Fan,29,79.13,2024-03-20,North
+2118,Folder,40,241.03,2022-02-06,Northwest
+2119,Speaker,31,196.72,2024-12-18,East
+2120,Network Card,28,88.79,2024-11-18,Southwest
+2121,Textbook,25,765.78,2022-01-21,Southeast
+2122,Network Card,7,,2024-03-07,West
+2123,SSD,45,231.22,2022-11-16,
+2124,Washing Machine,46,913.79,2022-01-27,North
+2125,Microphone,14,360.86,2024-10-06,East
+2126,Smartphone,9,470.66,2022-02-15,West
+2127,Smartphone,41,352.83,2023-12-05,North
+2128,Washing Machine,7,,2022-12-23,Northeast
+2129,Smartphone,20,168.08,2022-03-17,Northwest
+2130,Jacket,15,657.59,2023-11-13,South
+2131,Webcam,24,441.81,2023-10-09,South
+2132,CPU,34,293.03,2022-12-08,Northeast
+2133,Laptop,39,197.3,2023-02-19,
+2134,Pen,50,520.07,2022-05-04,West
+2135,Monitor,47,,2024-11-17,West
+2136,Paper,7,225.54,2023-11-23,Central
+2137,Notebook,5,599.68,2024-06-02,Southwest
+2138,Air Conditioner,43,898.87,2024-11-26,Southwest
+2139,Microphone,23,158.3,2024-02-22,Southeast
+2140,Printer,2,125.79,2022-03-24,Northwest
+2141,TV,42,470.51,2023-12-20,North
+2142,Hat,41,357.81,2022-02-23,South
+2143,Microphone,41,,2024-01-13,Central
+2144,Desk,12,15.62,2024-12-06,South
+2145,Watch,41,217.47,2024-11-16,Northeast
+2146,Refrigerator,5,310.65,2024-01-02,Northeast
+2147,Refrigerator,20,860.47,2024-02-23,Northwest
+2148,Desk,12,738.47,2022-10-07,East
+2149,Headphones,23,,2023-02-15,Central
+2150,Power Supply,26,25.1,2023-11-26,East
+2151,HDD,20,716.13,2024-12-07,Northwest
+2152,Jeans,29,718.65,2023-02-06,South
+2153,Cooling Fan,26,64.82,2023-12-23,
+2154,Motherboard,13,993.1,2022-11-24,North
+2155,Calculator,20,391.39,2024-12-12,Northwest
+2156,Pen,3,,2023-01-02,Northwest
+2157,Paper,6,621.88,2024-03-07,Southwest
+2158,Hat,23,454.4,2024-11-03,Central
+2159,Graphics Card,33,,2022-07-16,Southeast
+2160,Mouse,12,803.93,2024-01-18,Southeast
+2161,SSD,21,60.55,2023-11-19,East
+2162,RAM,16,463.11,2024-07-12,South
+2163,Tablet,35,238.37,2024-12-25,West
+2164,Printer,4,774.9,2024-01-11,Northwest
+2165,Network Card,9,,2024-01-01,South
+2166,Dictionary,8,48.3,2022-02-14,East
+2167,Paper,47,602.97,2022-01-03,North
+2168,Laptop,48,342.63,2022-02-28,Southwest
+2169,HDD,49,117.44,2023-01-24,East
+2170,Printer,13,71.39,2024-11-28,West
+2171,Office Chair,20,122.18,2023-02-23,West
+2172,Tablet,21,908.16,2024-01-15,North
+2173,Folder,38,964.87,2022-02-01,Northwest
+2174,Jacket,9,656.08,2022-11-06,Central
+2175,Tablet,32,169.52,2022-01-12,South
+2176,Monitor,33,267.59,2022-11-25,Southeast
+2177,USB Drive,26,326.84,2024-11-05,East
+2178,Calculator,36,914.38,2024-01-18,Central
+2179,Keyboard,7,180.07,2022-08-15,Southeast
+2180,TV,2,,2022-11-11,Northeast
+2181,Smartphone,46,,2022-02-28,Northwest
+2182,Air Conditioner,26,678.47,2024-01-17,East
+2183,Novel,3,446.46,2023-12-16,North
+2184,Folder,22,688.81,2022-12-10,Southeast
+2185,Bag,26,138.24,2024-01-26,North
+2186,Smartphone,49,994.36,2022-01-14,Central
+2187,Shoes,24,350.67,2022-11-10,South
+2188,Printer,7,,2022-06-24,South
+2189,Jacket,40,720.31,2022-01-23,East
+2190,Scanner,24,747.08,2024-09-02,Northwest
+2191,Textbook,32,893.85,2023-08-20,Northwest
+2192,Hat,50,462.47,2023-02-12,North
+2193,Monitor,34,661.33,2024-11-07,South
+2194,Microwave,39,704.83,2023-01-24,Northeast
+2195,Air Conditioner,29,339.21,2022-11-23,Northeast
+2196,Headphones,21,475.35,2022-01-03,East
+2197,RAM,27,327.17,2022-11-11,East
+2198,Watch,24,960.1,2022-04-26,Northwest
+2199,Mouse,43,31.14,2024-02-28,Central
+2200,Printer,30,584.28,2023-12-04,East
+2201,RAM,23,,2024-12-22,East
+2202,Office Chair,2,542.49,2022-01-05,South
+2203,Textbook,26,85.22,2022-05-18,Southeast
+2204,Paper,50,229.96,2022-12-13,North
+2205,Folder,32,24.87,2022-02-19,Northeast
+2206,Laptop,37,,2024-11-22,Southeast
+2207,Bag,25,712.94,2022-05-27,North
+2208,Paper,35,460.02,2024-11-28,North
+2209,External HDD,4,703.21,2022-04-18,West
+2210,Keyboard,30,517.34,2024-01-22,Southwest
+2211,Novel,10,,2024-11-28,Northwest
+2212,Air Conditioner,11,733.63,2022-11-03,Northeast
+2213,Keyboard,33,564.12,2022-07-13,East
+2214,RAM,15,165.76,2022-02-26,Southeast
+2215,Textbook,35,,2024-01-14,Northeast
+2216,Desktop,2,20.14,2023-01-15,South
+2217,Shoes,39,,2024-11-23,East
+2218,Bag,9,738.48,2024-11-13,North
+2219,Graphics Card,43,620.07,2023-11-19,East
+2220,SSD,44,135.1,2023-11-02,South
+2221,RAM,3,25.14,2024-02-20,Southeast
+2222,Webcam,41,683.31,2022-12-22,Southeast
+2223,Dictionary,34,849.05,2022-11-01,South
+2224,Webcam,4,290.81,2023-01-15,South
+2225,Magazine,17,470.4,2024-08-17,South
+2226,Air Conditioner,32,769.27,2022-01-11,South
+2227,Paper,41,861.97,2022-01-10,Northeast
+2228,SSD,34,544.24,2023-11-13,Northwest
+2229,Microphone,5,128.67,2024-11-07,East
+2230,Monitor,18,533.0,2022-01-28,Central
+2231,Power Supply,38,268.44,2022-10-04,Southeast
+2232,External HDD,32,,2024-07-17,South
+2233,Programming Book,3,15.01,2022-01-03,North
+2234,Pen,29,619.17,2023-08-26,Southeast
+2235,Magazine,49,,2024-12-08,South
+2236,Paper,42,308.16,2023-12-04,Central
+2237,Headphones,16,409.6,2024-03-07,East
+2238,Jacket,8,186.53,2023-09-28,East
+2239,Bag,43,619.03,2023-11-28,East
+2240,Jacket,47,550.31,2023-02-03,Northeast
+2241,Hat,49,742.08,2022-12-27,Northwest
+2242,Washing Machine,31,635.29,2024-11-01,Northwest
+2243,T-Shirt,26,333.79,2024-02-15,Northeast
+2244,CPU,9,862.74,2023-02-25,North
+2245,Folder,42,461.13,2022-11-14,Northeast
+2246,Power Supply,4,339.09,2023-02-26,Central
+2247,Programming Book,2,605.87,2022-01-07,North
+2248,Cooling Fan,39,292.26,2024-01-28,Northwest
+2249,Hat,25,994.68,2023-11-26,
+2250,CPU,14,654.84,2023-11-14,West
+2251,GPU,41,950.36,2024-01-10,Central
+2252,Graphics Card,26,613.58,2022-03-08,Southwest
+2253,Office Chair,45,17.86,2023-12-25,Northwest
+2254,SSD,27,19.52,2022-12-09,East
+2255,Speaker,32,14.48,2024-01-02,West
+2256,Cooling Fan,35,,2023-12-05,Southwest
+2257,Monitor,28,908.09,2023-02-24,North
+2258,Microwave,7,519.38,2022-03-25,Northwest
+2259,Motherboard,14,646.24,2023-11-07,Southeast
+2260,Novel,43,153.4,2022-02-20,East
+2261,Tablet,13,91.89,2024-02-06,West
+2262,Scanner,11,408.86,2023-12-15,Southwest
+2263,Graphics Card,46,425.45,2023-11-05,Northeast
+2264,Magazine,1,,2023-09-03,Northwest
+2265,Network Card,4,287.94,2024-04-04,Southeast
+2266,Shoes,50,601.6,2023-02-02,North
+2267,Refrigerator,15,354.38,2023-01-04,North
+2268,Microphone,41,393.13,2022-12-27,Central
+2269,Smartphone,28,567.18,2023-07-22,North
+2270,External HDD,12,845.63,2023-02-01,Southeast
+2271,Desk,3,235.16,2024-11-14,North
+2272,Dictionary,2,381.17,2022-02-06,Northwest
+2273,Scanner,38,140.35,2024-02-28,Northwest
+2274,RAM,17,,2024-02-05,
+2275,Smartphone,45,77.34,2023-02-04,Central
+2276,Webcam,38,884.78,2022-11-10,Southwest
+2277,Desktop,30,525.52,2023-12-15,Southeast
+2278,Jacket,37,755.93,2022-11-08,Southeast
+2279,Microphone,27,,2022-12-06,North
+2280,Jeans,9,17.78,2023-12-19,South
+2281,Dictionary,48,302.27,2022-06-01,
+2282,T-Shirt,27,640.71,2024-12-07,East
+2283,Cooling Fan,50,229.86,2022-12-01,East
+2284,Novel,2,165.97,2024-11-09,Northwest
+2285,Jeans,32,283.88,2023-02-11,Southeast
+2286,Smartphone,18,300.31,2024-06-19,East
+2287,SSD,32,22.22,2023-11-06,North
+2288,Jacket,45,72.2,2024-11-25,South
+2289,Bag,32,300.7,2023-10-12,East
+2290,Textbook,23,786.49,2023-11-15,Central
+2291,Washing Machine,13,76.98,2022-11-07,Northwest
+2292,Power Supply,12,996.79,2022-11-24,West
+2293,Network Card,12,246.45,2022-01-18,Northwest
+2294,Jacket,14,,2022-02-26,East
+2295,Watch,35,465.8,2024-02-27,West
+2296,Pen,27,942.61,2022-01-13,
+2297,Bag,36,326.75,2022-11-08,Southeast
+2298,TV,47,664.72,2024-01-13,West
+2299,Scanner,49,625.18,2024-11-11,East
+2300,Novel,1,522.54,2023-11-08,Southwest
+2301,Shoes,3,438.2,2024-11-05,Northeast
+2302,Hat,24,938.46,2022-12-17,Northeast
+2303,Scanner,41,83.43,2023-02-11,Southeast
+2304,SSD,12,700.36,2023-04-19,North
+2305,Microphone,42,849.01,2024-01-11,Southeast
+2306,Paper,15,247.26,2022-10-02,Southeast
+2307,Monitor,5,695.0,2022-11-05,Northwest
+2308,Magazine,22,785.85,2023-08-08,North
+2309,Tablet,42,803.24,2022-09-14,Southeast
+2310,Pen,11,499.71,2024-08-01,South
+2311,Office Chair,17,307.74,2022-12-03,East
+2312,USB Drive,30,255.3,2024-11-06,North
+2313,Keyboard,10,625.65,2022-10-25,Northeast
+2314,Washing Machine,29,288.09,2022-11-06,North
+2315,Desk,5,394.54,2024-03-07,Southeast
+2316,Bag,18,834.29,2023-01-25,
+2317,Refrigerator,48,152.37,2024-02-12,Southeast
+2318,Hat,36,230.61,2022-12-26,South
+2319,Programming Book,22,529.02,2024-02-07,Northwest
+2320,Calculator,6,,2022-01-03,South
+2321,USB Drive,6,764.47,2024-11-18,Southeast
+2322,Magazine,37,904.66,2022-12-03,East
+2323,Air Conditioner,6,637.66,2023-02-05,North
+2324,Graphics Card,17,85.7,2023-10-13,Northeast
+2325,Dictionary,48,375.58,2024-11-06,South
+2326,Smartphone,15,944.56,2022-01-04,Central
+2327,Jacket,21,190.07,2022-12-22,
+2328,USB Drive,43,222.67,2024-10-10,West
+2329,Printer,11,134.68,2024-12-08,Southwest
+2330,CPU,9,475.09,2022-12-18,North
+2331,Cooling Fan,26,560.74,2024-01-03,South
+2332,Graphics Card,30,459.54,2024-01-03,Northwest
+2333,Dictionary,37,525.39,2023-11-27,East
+2334,CPU,15,713.55,2022-01-03,Northeast
+2335,Scanner,37,514.39,2023-12-22,
+2336,Dictionary,36,517.76,2023-01-25,Northwest
+2337,Smartphone,2,238.85,2022-02-10,North
+2338,Webcam,23,,2023-12-23,North
+2339,Desk,46,,2023-02-08,Northeast
+2340,Cooling Fan,8,457.27,2024-11-21,Southeast
+2341,Jeans,46,836.99,2022-02-05,Central
+2342,Textbook,35,698.56,2023-02-23,Northeast
+2343,Printer,22,839.95,2022-01-07,Northeast
+2344,Hat,47,881.42,2024-01-26,Northeast
+2345,Desk,27,790.19,2023-10-27,Central
+2346,Pen,32,500.07,2022-01-16,Southwest
+2347,Graphics Card,21,347.18,2022-11-04,Northeast
+2348,Desk,48,,2022-11-10,Southwest
+2349,Desk,5,365.18,2022-12-10,South
+2350,Textbook,28,795.55,2023-12-02,East
+2351,Cooling Fan,48,415.47,2024-11-15,Northeast
+2352,Refrigerator,12,243.55,2024-12-07,Central
+2353,Network Card,35,339.63,2024-11-24,North
+2354,TV,48,,2023-03-24,Central
+2355,Webcam,42,535.6,2022-02-26,Southeast
+2356,HDD,47,772.47,2023-01-08,Northwest
+2357,T-Shirt,9,206.55,2023-02-13,Southeast
+2358,Microphone,46,647.27,2023-06-19,North
+2359,GPU,22,840.71,2024-12-12,South
+2360,GPU,44,133.94,2024-12-14,Northwest
+2361,Microphone,39,191.36,2024-11-02,Southwest
+2362,Cooling Fan,14,960.52,2024-01-03,North
+2363,RAM,29,487.73,2023-11-19,Central
+2364,Microwave,50,811.06,2024-01-18,West
+2365,Bag,2,703.77,2023-02-05,Northeast
+2366,Desk,29,60.69,2023-02-16,
+2367,HDD,4,634.98,2022-02-02,Northeast
+2368,Textbook,12,103.89,2024-06-05,West
+2369,GPU,4,250.75,2024-04-23,Northeast
+2370,Novel,30,508.75,2024-12-03,Northwest
+2371,Refrigerator,37,812.33,2023-12-21,North
+2372,Notebook,12,893.48,2024-12-04,
+2373,Textbook,30,741.4,2022-12-06,Central
+2374,TV,13,216.27,2024-11-25,West
+2375,Jeans,17,924.4,2022-02-13,North
+2376,Mouse,9,713.34,2024-01-28,Northeast
+2377,Desktop,41,725.99,2023-04-28,North
+2378,Calculator,23,227.68,2022-07-04,Southeast
+2379,Bag,18,211.06,2022-01-24,Northwest
+2380,Magazine,10,882.87,2023-12-17,Northeast
+2381,Watch,32,837.67,2022-01-08,Southwest
+2382,HDD,7,512.04,2024-11-19,Northeast
+2383,Calculator,11,525.6,2024-01-01,Northeast
+2384,Desk,9,586.13,2022-06-06,East
+2385,Jacket,33,741.64,2024-02-12,East
+2386,Keyboard,21,763.12,2024-01-05,North
+2387,Refrigerator,19,54.34,2024-01-25,East
+2388,Tablet,30,344.63,2023-01-22,Northwest
+2389,Dictionary,12,94.94,2023-01-23,Southeast
+2390,Jacket,4,735.11,2024-01-09,East
+2391,Calculator,46,334.21,2022-11-24,Northwest
+2392,Jacket,50,818.06,2022-02-19,South
+2393,Printer,29,236.67,2023-12-17,North
+2394,Mouse,46,,2023-11-16,West
+2395,Jeans,30,475.69,2022-02-28,Southwest
+2396,Hat,21,748.56,2024-02-28,West
+2397,Cooling Fan,42,408.35,2024-12-05,Southwest
+2398,Calculator,4,77.18,2024-12-24,Northwest
+2399,Mouse,15,806.93,2023-08-07,South
+2400,Webcam,31,,2023-11-19,Southeast
+2401,External HDD,45,544.1,2022-02-13,North
+2402,SSD,27,983.62,2023-09-12,South
+2403,Desk,30,88.62,2022-01-23,East
+2404,T-Shirt,4,552.72,2023-02-03,
+2405,Folder,31,177.11,2023-11-17,Northwest
+2406,Cooling Fan,46,210.89,2023-11-28,South
+2407,Monitor,27,139.53,2024-02-21,Central
+2408,Tablet,48,504.43,2023-09-02,Southwest
+2409,Air Conditioner,11,548.89,2024-02-13,West
+2410,CPU,42,781.59,2024-01-07,Northwest
+2411,Magazine,28,,2023-11-02,Northwest
+2412,Mouse,42,556.12,2023-04-01,South
+2413,Microwave,40,,2024-02-17,Southwest
+2414,Hat,1,806.91,2022-01-15,Southeast
+2415,Network Card,25,449.15,2024-11-17,West
+2416,Speaker,50,736.26,2024-12-19,Southeast
+2417,Microwave,14,619.35,2024-05-25,East
+2418,Network Card,23,931.29,2024-01-12,Northwest
+2419,Graphics Card,39,88.04,2023-05-14,Southwest
+2420,Laptop,13,839.55,2022-11-04,East
+2421,Pen,21,407.87,2023-12-08,North
+2422,Monitor,50,283.98,2023-07-28,Northeast
+2423,Smartphone,29,263.25,2022-02-16,North
+2424,Network Card,20,180.19,2022-02-20,Central
+2425,Notebook,22,745.24,2024-08-04,
+2426,Shoes,32,412.81,2022-02-04,North
+2427,Office Chair,29,,2023-03-09,West
+2428,Dictionary,22,,2024-01-18,Northwest
+2429,External HDD,9,153.83,2022-01-01,South
+2430,HDD,37,964.53,2024-02-02,West
+2431,Office Chair,27,662.36,2024-07-05,Northeast
+2432,Bag,15,531.05,2022-11-23,Central
+2433,Calculator,40,,2023-11-26,East
+2434,Jacket,25,,2023-03-10,
+2435,Headphones,32,606.94,2024-02-24,Central
+2436,Shoes,6,611.38,2022-02-01,Southeast
+2437,Jacket,45,388.41,2024-12-05,North
+2438,Novel,20,,2023-01-01,North
+2439,Shoes,19,,2024-01-04,North
+2440,Smartphone,40,315.28,2022-11-24,North
+2441,Hat,24,852.73,2024-01-23,Central
+2442,Air Conditioner,44,288.2,2024-11-05,South
+2443,Shoes,50,10.53,2022-01-10,West
+2444,Textbook,10,51.59,2022-10-04,North
+2445,Graphics Card,45,616.78,2023-02-15,Northwest
+2446,USB Drive,49,987.93,2023-01-21,Northeast
+2447,Microwave,17,847.84,2022-12-18,North
+2448,Scanner,41,271.1,2023-04-14,
+2449,Jeans,48,847.55,2024-02-14,West
+2450,Washing Machine,34,800.09,2023-02-04,
+2451,Dictionary,3,237.42,2022-11-05,Southeast
+2452,Desktop,49,880.49,2023-11-18,
+2453,Network Card,46,738.77,2024-02-28,South
+2454,Hat,16,,2022-11-12,Northeast
+2455,Notebook,19,619.86,2023-11-21,Northwest
+2456,Network Card,9,,2024-09-02,Central
+2457,Smartphone,13,954.54,2023-02-07,North
+2458,Shoes,28,,2022-02-08,East
+2459,Monitor,47,46.61,2023-12-25,Central
+2460,Folder,36,916.65,2023-11-09,Central
+2461,Magazine,15,863.27,2023-02-05,South
+2462,HDD,4,572.06,2022-12-23,South
+2463,GPU,27,456.81,2023-10-24,Central
+2464,Cooling Fan,8,281.72,2024-12-16,West
+2465,Bag,16,42.65,2023-02-18,West
+2466,HDD,13,827.82,2022-01-17,
+2467,Paper,27,716.51,2023-01-18,Central
+2468,Power Supply,17,511.37,2024-02-27,Northeast
+2469,Speaker,5,59.76,2023-03-09,South
+2470,RAM,25,292.25,2022-12-13,South
+2471,CPU,20,475.81,2023-01-16,
+2472,Hat,46,393.79,2022-02-27,Northeast
+2473,Desktop,31,,2023-11-24,Northeast
+2474,Refrigerator,41,730.98,2022-11-27,South
+2475,Network Card,30,671.07,2022-01-23,South
+2476,Mouse,36,169.1,2023-11-10,Northeast
+2477,Air Conditioner,11,,2022-12-28,East
+2478,Desktop,35,331.75,2023-05-11,East
+2479,Printer,6,741.45,2023-08-09,South
+2480,Textbook,23,,2022-12-14,South
+2481,Graphics Card,2,329.97,2022-02-26,North
+2482,Calculator,40,231.67,2023-02-03,North
+2483,Desk,22,327.07,2022-01-19,East
+2484,Magazine,18,334.83,2022-11-14,Northwest
+2485,Speaker,42,439.73,2022-11-24,Central
+2486,Office Chair,16,441.45,2024-01-22,East
+2487,Air Conditioner,46,318.04,2022-12-01,
+2488,HDD,40,,2023-11-11,Southeast
+2489,Scanner,18,78.12,2023-12-07,Central
+2490,Folder,22,50.05,2022-12-28,South
+2491,TV,35,789.73,2024-11-21,Southeast
+2492,Headphones,30,626.09,2022-11-09,West
+2493,Webcam,26,519.6,2024-02-15,South
+2494,Scanner,40,502.15,2024-08-23,Northwest
+2495,Magazine,15,962.87,2022-11-26,West
+2496,GPU,39,566.76,2023-08-10,South
+2497,Refrigerator,29,624.08,2022-02-02,
+2498,Air Conditioner,17,118.42,2024-01-23,West
+2499,Cooling Fan,36,439.98,2024-02-17,South
+2500,GPU,45,507.46,2022-02-23,Northeast
+2501,Shoes,1,448.52,2022-11-17,North
+2502,Jeans,35,207.7,2024-09-17,North
+2503,Desktop,40,561.68,2023-01-10,Central
+2504,Tablet,40,761.2,2022-11-24,East
+2505,Webcam,39,951.84,2023-12-07,East
+2506,Dictionary,42,682.02,2024-11-28,Southeast
+2507,Speaker,32,386.75,2024-02-18,East
+2508,Graphics Card,13,516.38,2024-08-13,Southwest
+2509,Keyboard,22,,2024-11-18,East
+2510,CPU,36,631.19,2023-12-07,Southwest
+2511,Monitor,9,844.54,2023-12-14,West
+2512,Air Conditioner,33,266.83,2023-10-11,South
+2513,GPU,14,127.51,2022-03-11,South
+2514,Refrigerator,34,800.68,2022-11-21,Northeast
+2515,GPU,46,803.98,2024-02-09,South
+2516,Desk,26,642.91,2023-06-11,Southeast
+2517,Headphones,8,63.09,2024-02-19,Southeast
+2518,Bag,8,685.34,2024-01-12,Northwest
+2519,Air Conditioner,36,574.51,2023-11-23,East
+2520,Notebook,49,792.67,2024-12-17,West
+2521,TV,20,904.28,2024-12-22,South
+2522,Keyboard,32,251.41,2023-10-08,Central
+2523,Pen,33,772.75,2022-12-08,Northeast
+2524,External HDD,7,524.73,2024-10-27,West
+2525,Pen,34,801.59,2023-02-21,North
+2526,Laptop,22,873.61,2022-01-04,Central
+2527,Magazine,1,76.55,2023-01-04,Northwest
+2528,Paper,10,409.13,2024-01-18,Southwest
+2529,Scanner,9,141.74,2023-11-01,Northeast
+2530,Graphics Card,6,668.07,2023-02-26,Northeast
+2531,Mouse,29,628.43,2023-01-27,West
+2532,External HDD,9,,2022-01-26,Central
+2533,Headphones,30,495.69,2022-02-05,East
+2534,Bag,29,864.54,2022-10-07,North
+2535,Programming Book,22,971.37,2022-11-15,Southeast
+2536,Jeans,7,281.61,2023-01-23,North
+2537,Mouse,28,943.23,2023-12-21,Southwest
+2538,Notebook,15,726.0,2023-12-12,West
+2539,Air Conditioner,46,303.81,2024-01-10,Northwest
+2540,HDD,28,16.89,2024-12-21,Southeast
+2541,Desktop,48,51.88,2024-11-16,West
+2542,Folder,36,368.49,2023-02-24,West
+2543,SSD,17,210.09,2022-11-14,Southeast
+2544,Tablet,16,68.94,2022-12-06,North
+2545,Speaker,34,986.9,2023-11-01,Northwest
+2546,Scanner,41,467.3,2022-11-02,South
+2547,Headphones,7,979.56,2023-12-11,East
+2548,Programming Book,7,693.33,2022-04-04,Southwest
+2549,Tablet,50,20.93,2024-12-08,North
+2550,Washing Machine,3,799.27,2023-05-14,South
+2551,Jeans,45,400.86,2024-03-06,Southeast
+2552,Scanner,46,771.56,2023-08-06,West
+2553,Calculator,45,305.75,2024-01-17,Southeast
+2554,Motherboard,8,700.98,2024-06-16,South
+2555,Scanner,18,99.63,2024-02-17,Central
+2556,Notebook,31,211.13,2022-12-15,Southwest
+2557,Shoes,32,,2023-04-15,East
+2558,USB Drive,23,235.67,2024-01-10,Southwest
+2559,Keyboard,15,680.73,2022-02-28,Northwest
+2560,Dictionary,19,,2024-02-02,West
+2561,Microphone,3,474.08,2023-12-05,East
+2562,Pen,33,699.51,2024-12-25,East
+2563,Laptop,26,147.16,2024-01-28,South
+2564,Dictionary,4,222.58,2024-12-17,East
+2565,Air Conditioner,32,376.17,2022-12-09,South
+2566,Washing Machine,14,526.6,2024-11-03,South
+2567,Hat,4,,2024-12-14,Northwest
+2568,TV,6,732.79,2023-12-26,Northeast
+2569,Power Supply,43,969.7,2022-01-17,Southeast
+2570,External HDD,32,143.68,2023-12-11,Southwest
+2571,Dictionary,27,861.23,2022-01-10,Northwest
+2572,Laptop,19,628.03,2024-02-05,Southwest
+2573,Mouse,10,93.15,2022-11-22,Southeast
+2574,Hat,38,674.59,2023-02-25,Northwest
+2575,Jacket,17,428.08,2023-06-05,East
+2576,Air Conditioner,49,450.29,2024-05-13,East
+2577,T-Shirt,2,633.8,2024-11-25,Southeast
+2578,Magazine,40,242.06,2023-12-18,Northwest
+2579,Desktop,13,514.26,2023-01-24,
+2580,Desktop,24,779.45,2024-02-07,Central
+2581,Jacket,5,651.63,2022-11-07,West
+2582,RAM,28,,2023-04-07,Southeast
+2583,HDD,34,449.83,2022-12-11,Central
+2584,SSD,23,165.75,2024-11-05,South
+2585,Smartphone,38,330.13,2024-06-24,South
+2586,Tablet,16,224.27,2024-01-18,South
+2587,Novel,44,828.5,2024-11-03,West
+2588,Pen,2,11.75,2023-09-12,East
+2589,Refrigerator,9,588.76,2024-12-15,Southeast
+2590,TV,24,510.33,2023-01-11,Northeast
+2591,Hat,7,16.63,2024-12-01,Southwest
+2592,TV,40,570.43,2022-12-22,Southwest
+2593,T-Shirt,38,47.2,2022-11-25,East
+2594,Shoes,49,17.54,2023-02-02,Northwest
+2595,USB Drive,13,383.22,2022-11-11,South
+2596,Jacket,34,442.27,2024-06-02,West
+2597,Tablet,11,386.74,2023-12-28,Southwest
+2598,Pen,24,893.46,2022-11-15,West
+2599,Network Card,27,10.97,2024-10-06,Southwest
+2600,SSD,38,57.61,2023-11-15,Northwest
+2601,Microphone,4,604.06,2022-10-17,
+2602,Printer,45,247.0,2024-05-16,North
+2603,Desktop,37,456.89,2022-01-11,West
+2604,GPU,38,132.54,2022-09-07,South
+2605,Mouse,46,911.19,2024-08-11,South
+2606,Motherboard,31,10.36,2023-11-06,South
+2607,Dictionary,48,404.04,2022-12-24,Northwest
+2608,Jeans,16,704.85,2024-02-17,Southwest
+2609,Novel,31,852.26,2022-11-17,
+2610,External HDD,17,198.58,2024-02-23,Southwest
+2611,Washing Machine,19,279.84,2022-11-05,East
+2612,Scanner,10,,2024-04-08,Southeast
+2613,Dictionary,22,354.05,2024-12-18,South
+2614,Speaker,21,979.28,2022-02-04,Central
+2615,Printer,50,470.49,2022-01-09,West
+2616,USB Drive,12,165.16,2023-02-08,South
+2617,Mouse,13,315.82,2023-02-06,Southeast
+2618,USB Drive,12,836.09,2024-02-05,East
+2619,Office Chair,2,919.45,2023-01-01,West
+2620,USB Drive,40,,2024-04-22,Southeast
+2621,Network Card,47,877.84,2023-08-08,West
+2622,Jeans,13,804.91,2024-04-01,North
+2623,Paper,2,367.33,2023-02-25,South
+2624,Cooling Fan,23,805.41,2024-02-24,West
+2625,Webcam,39,341.37,2024-12-12,West
+2626,Printer,11,694.3,2024-11-03,West
+2627,Webcam,24,635.19,2024-12-19,Southeast
+2628,Speaker,20,688.06,2024-11-23,Northeast
+2629,Motherboard,44,354.28,2022-02-15,East
+2630,Paper,39,445.14,2024-01-09,Southeast
+2631,Smartphone,10,934.87,2023-04-06,Southeast
+2632,Keyboard,23,653.19,2024-12-19,Central
+2633,Smartphone,30,628.24,2023-11-03,Northwest
+2634,Keyboard,47,222.7,2022-01-02,Southwest
+2635,Desktop,6,219.45,2022-02-17,Southeast
+2636,Smartphone,36,983.97,2022-04-22,North
+2637,Motherboard,18,479.73,2022-02-08,Southwest
+2638,Mouse,6,468.93,2022-12-09,Northeast
+2639,Graphics Card,35,800.26,2022-12-08,Southeast
+2640,Graphics Card,23,717.21,2023-02-17,Northwest
+2641,Air Conditioner,26,25.02,2022-02-05,North
+2642,Monitor,15,176.03,2023-06-06,North
+2643,Programming Book,47,801.13,2023-11-15,South
+2644,Novel,17,750.48,2023-01-26,Northwest
+2645,Bag,19,424.57,2022-02-22,East
+2646,Washing Machine,1,364.15,2022-12-15,South
+2647,CPU,18,479.87,2022-10-16,Southwest
+2648,Watch,10,541.67,2023-01-09,North
+2649,Tablet,43,468.48,2023-01-04,West
+2650,RAM,22,817.23,2023-01-06,Southwest
+2651,SSD,46,608.5,2022-11-18,North
+2652,Cooling Fan,41,417.14,2022-01-05,North
+2653,Printer,26,83.61,2023-11-18,West
+2654,Programming Book,31,461.6,2024-02-14,West
+2655,USB Drive,28,115.18,2022-01-05,West
+2656,Network Card,8,939.66,2022-07-25,South
+2657,Tablet,2,983.96,2022-11-02,Southeast
+2658,Headphones,25,118.14,2023-11-17,West
+2659,Mouse,29,196.99,2024-11-21,Northwest
+2660,Laptop,9,289.54,2022-04-18,West
+2661,Washing Machine,28,675.8,2024-02-11,Central
+2662,USB Drive,16,912.54,2022-05-03,Southwest
+2663,Scanner,8,294.97,2023-05-26,Central
+2664,T-Shirt,20,727.21,2022-01-07,South
+2665,External HDD,36,93.44,2022-01-15,Northeast
+2666,Speaker,26,295.12,2024-05-06,Central
+2667,Watch,30,482.83,2024-02-08,Southwest
+2668,Dictionary,26,992.87,2023-02-25,Southwest
+2669,Jeans,18,747.58,2022-08-02,Southeast
+2670,Speaker,44,482.11,2022-02-18,Central
+2671,Folder,9,650.78,2024-02-01,West
+2672,Novel,8,274.58,2023-10-22,Central
+2673,Notebook,19,286.38,2023-02-16,South
+2674,Jeans,17,735.12,2022-02-24,Northwest
+2675,Folder,49,407.13,2023-12-07,North
+2676,TV,29,600.43,2023-11-26,Central
+2677,Novel,5,580.16,2024-12-10,Southwest
+2678,Cooling Fan,27,209.6,2023-01-05,
+2679,TV,26,690.34,2022-02-04,Southeast
+2680,Refrigerator,12,643.73,2023-02-22,Northeast
+2681,Magazine,43,298.14,2024-02-09,Southeast
+2682,SSD,17,110.17,2022-01-07,West
+2683,Refrigerator,40,306.3,2022-01-15,Northwest
+2684,Novel,34,116.53,2022-02-02,Central
+2685,Monitor,5,456.17,2022-09-26,West
+2686,Dictionary,45,993.23,2022-01-21,Northwest
+2687,Bag,8,131.63,2024-02-25,Southwest
+2688,Magazine,50,791.07,2022-12-16,Southwest
+2689,T-Shirt,17,31.56,2022-02-03,North
+2690,RAM,22,545.99,2022-01-18,North
+2691,Network Card,18,801.52,2023-06-21,West
+2692,Tablet,19,988.75,2023-03-16,Southwest
+2693,Microwave,34,523.44,2022-09-09,North
+2694,Notebook,49,869.48,2022-06-16,Northeast
+2695,Notebook,15,609.18,2022-02-08,Central
+2696,SSD,19,264.79,2024-11-23,South
+2697,Office Chair,26,179.26,2023-12-07,Northeast
+2698,USB Drive,24,601.54,2024-01-11,Southeast
+2699,Cooling Fan,8,897.77,2024-03-28,South
+2700,Washing Machine,25,222.95,2023-02-12,Northwest
+2701,Desk,50,753.68,2023-07-13,Southeast
+2702,Keyboard,50,461.06,2023-02-26,Northeast
+2703,USB Drive,35,,2022-11-24,East
+2704,GPU,12,241.77,2024-12-22,Southeast
+2705,Scanner,1,508.91,2023-02-28,Northwest
+2706,T-Shirt,15,657.03,2022-11-14,Central
+2707,Refrigerator,25,361.1,2022-10-17,South
+2708,Webcam,9,,2022-07-16,
+2709,Motherboard,29,884.67,2024-11-01,South
+2710,Mouse,16,738.04,2022-11-21,Southeast
+2711,Mouse,17,,2024-11-09,North
+2712,Desktop,32,44.13,2023-02-17,Central
+2713,Mouse,45,138.6,2024-12-18,Central
+2714,GPU,25,377.81,2024-05-11,North
+2715,Tablet,27,270.34,2023-12-01,Southeast
+2716,Pen,24,853.06,2024-02-10,East
+2717,Speaker,45,945.48,2022-01-20,Central
+2718,Programming Book,1,53.18,2022-09-05,West
+2719,CPU,20,456.56,2022-12-20,Southeast
+2720,Office Chair,45,639.31,2024-11-22,Central
+2721,Novel,50,,2023-02-15,Northeast
+2722,Mouse,45,415.46,2024-01-16,North
+2723,HDD,38,255.92,2024-02-19,Northeast
+2724,Folder,44,109.17,2023-12-20,East
+2725,Network Card,23,815.64,2022-02-08,Central
+2726,Washing Machine,34,713.3,2022-11-16,Northwest
+2727,Mouse,11,704.75,2023-01-14,Northeast
+2728,Textbook,38,626.46,2023-05-14,North
+2729,Office Chair,8,324.95,2024-02-01,Southwest
+2730,Washing Machine,42,486.37,2024-01-11,Northwest
+2731,Keyboard,7,,2022-02-06,North
+2732,Refrigerator,10,,2024-01-04,Southwest
+2733,Monitor,30,95.04,2022-12-27,South
+2734,SSD,15,354.15,2022-01-05,South
+2735,T-Shirt,46,,2022-02-11,Northeast
+2736,Hat,23,682.2,2023-03-22,Central
+2737,External HDD,10,422.59,2022-12-05,Northeast
+2738,Air Conditioner,37,226.69,2024-01-18,Southeast
+2739,Novel,48,438.31,2022-01-05,Southwest
+2740,Hat,3,585.02,2024-11-05,Southeast
+2741,Cooling Fan,47,225.55,2022-01-17,
+2742,Speaker,36,511.0,2023-02-07,North
+2743,Microwave,15,182.49,2023-01-03,Northeast
+2744,Microwave,2,521.98,2023-02-22,South
+2745,Programming Book,3,797.89,2022-06-15,Northeast
+2746,Speaker,36,288.18,2024-12-25,Southwest
+2747,Smartphone,48,696.6,2024-12-26,North
+2748,Jacket,23,299.72,2023-02-07,West
+2749,Headphones,49,594.55,2024-12-11,Central
+2750,Office Chair,41,166.72,2023-02-06,West
+2751,Keyboard,20,877.55,2023-11-27,Northwest
+2752,T-Shirt,31,675.76,2022-10-27,South
+2753,Mouse,18,551.5,2023-12-04,West
+2754,Jeans,14,536.87,2024-02-25,Southwest
+2755,HDD,19,297.25,2022-02-02,Northwest
+2756,Mouse,36,317.71,2024-12-26,Northeast
+2757,HDD,26,324.16,2023-02-23,East
+2758,HDD,29,683.11,2022-01-25,South
+2759,USB Drive,6,552.03,2023-02-21,
+2760,Textbook,50,129.73,2023-12-20,Northwest
+2761,Microphone,45,259.36,2022-12-03,Northeast
+2762,Monitor,28,621.09,2022-06-17,West
+2763,Textbook,44,703.06,2022-01-25,Southeast
+2764,Textbook,23,793.46,2024-07-19,South
+2765,Watch,6,877.15,2023-01-04,East
+2766,Scanner,10,833.41,2024-02-08,Southwest
+2767,Webcam,8,715.52,2023-02-22,North
+2768,Calculator,6,871.55,2023-11-01,North
+2769,Cooling Fan,22,182.54,2022-12-10,Southeast
+2770,Cooling Fan,2,494.56,2022-02-09,Northwest
+2771,Magazine,38,22.86,2024-01-27,East
+2772,CPU,35,281.64,2022-09-20,North
+2773,Desktop,44,67.45,2023-11-25,South
+2774,Hat,33,51.78,2023-02-06,Central
+2775,Watch,8,799.26,2022-02-23,Northeast
+2776,CPU,21,335.71,2023-02-16,North
+2777,RAM,3,141.8,2024-02-18,North
+2778,Office Chair,3,162.88,2024-06-12,North
+2779,Printer,17,600.53,2024-12-07,Central
+2780,Notebook,20,702.42,2022-11-05,East
+2781,Washing Machine,49,141.26,2024-01-23,
+2782,Office Chair,33,801.03,2023-02-17,Southeast
+2783,T-Shirt,45,337.75,2023-01-06,West
+2784,Headphones,48,333.92,2022-11-05,South
+2785,Bag,27,379.48,2023-01-17,Southwest
+2786,Jacket,39,398.56,2024-02-11,
+2787,External HDD,27,720.03,2023-12-10,West
+2788,Microwave,33,,2023-02-09,Northwest
+2789,Office Chair,19,144.94,2022-02-09,Southwest
+2790,Watch,2,944.7,2024-01-19,
+2791,Refrigerator,15,,2024-02-13,Northwest
+2792,Laptop,21,,2024-02-12,South
+2793,SSD,5,262.72,2024-12-27,North
+2794,Desktop,43,753.6,2023-12-03,South
+2795,USB Drive,47,792.9,2022-11-18,
+2796,USB Drive,11,27.04,2023-02-16,West
+2797,Paper,9,792.88,2024-01-12,Northeast
+2798,Watch,2,603.71,2024-08-15,Southeast
+2799,Pen,38,104.08,2024-01-09,Northeast
+2800,Watch,44,434.7,2023-11-03,North
+2801,Desk,18,192.81,2023-02-22,Central
+2802,External HDD,29,201.42,2024-08-21,Southeast
+2803,Calculator,42,487.95,2024-11-12,South
+2804,Folder,23,950.06,2023-02-11,Central
+2805,Textbook,35,219.9,2023-12-17,South
+2806,Cooling Fan,7,198.03,2023-01-23,Northwest
+2807,TV,41,31.31,2022-12-19,Northeast
+2808,Monitor,45,264.53,2024-01-26,North
+2809,Novel,31,919.85,2023-12-17,Central
+2810,Scanner,12,571.07,2023-02-09,Northeast
+2811,USB Drive,21,,2023-02-08,Northwest
+2812,Scanner,14,,2022-02-25,Central
+2813,Folder,44,379.99,2023-05-11,Northeast
+2814,Watch,30,417.56,2024-02-01,Northeast
+2815,Desk,40,40.54,2023-02-27,Northeast
+2816,Washing Machine,22,120.84,2022-04-17,Central
+2817,Textbook,35,44.44,2022-12-13,
+2818,Textbook,38,535.94,2023-08-22,North
+2819,Network Card,38,314.67,2022-06-05,West
+2820,Folder,8,769.14,2024-12-21,South
+2821,Office Chair,4,371.07,2023-02-17,Southwest
+2822,Refrigerator,12,832.76,2022-11-07,
+2823,Microphone,20,550.58,2023-11-20,Central
+2824,TV,34,928.92,2023-11-02,South
+2825,Monitor,11,990.56,2022-02-15,North
+2826,Washing Machine,30,212.68,2023-03-20,Southeast
+2827,Washing Machine,36,753.52,2023-04-17,Northeast
+2828,Novel,13,787.3,2023-01-22,South
+2829,Speaker,21,765.45,2022-12-21,South
+2830,Jeans,26,687.39,2024-12-10,Southwest
+2831,Motherboard,15,216.04,2023-02-22,Northeast
+2832,Paper,34,,2023-01-26,Southeast
+2833,Novel,10,,2022-12-19,West
+2834,Washing Machine,34,678.27,2024-12-05,Southwest
+2835,Desktop,13,207.13,2023-11-10,Southwest
+2836,Calculator,20,944.7,2024-12-09,North
+2837,Watch,46,768.93,2024-06-08,Northeast
+2838,Laptop,8,348.22,2022-12-15,Northwest
+2839,Laptop,15,471.18,2022-11-21,Northeast
+2840,Speaker,30,803.15,2023-12-24,South
+2841,Motherboard,31,173.69,2023-06-25,South
+2842,Laptop,32,803.75,2022-11-23,East
+2843,USB Drive,49,678.75,2024-01-22,Southwest
+2844,Desktop,38,52.95,2024-08-04,Southwest
+2845,Webcam,15,286.18,2023-11-24,Northeast
+2846,External HDD,49,811.61,2024-12-10,East
+2847,Refrigerator,22,75.82,2023-11-03,Southeast
+2848,Tablet,24,450.68,2023-11-14,North
+2849,Office Chair,33,,2022-01-03,West
+2850,Graphics Card,16,343.44,2023-04-16,South
+2851,Refrigerator,44,258.38,2023-08-06,Central
+2852,Speaker,39,509.33,2023-02-05,Southeast
+2853,Smartphone,20,,2022-01-24,Northwest
+2854,Paper,30,251.0,2024-11-17,Central
+2855,Microwave,26,548.99,2024-11-17,
+2856,HDD,40,668.45,2024-12-06,Southeast
+2857,Magazine,8,644.82,2024-09-18,North
+2858,Magazine,33,624.88,2022-01-09,Southwest
+2859,Washing Machine,27,527.52,2022-02-12,Central
+2860,Dictionary,38,849.25,2023-01-18,Northeast
+2861,Paper,32,803.41,2024-12-06,
+2862,Graphics Card,7,289.66,2024-01-07,South
+2863,Office Chair,11,63.59,2023-02-25,Northwest
+2864,Smartphone,31,970.62,2022-11-03,
+2865,Air Conditioner,22,214.42,2023-12-03,Southwest
+2866,Motherboard,3,463.92,2024-01-06,West
+2867,CPU,20,533.77,2024-11-24,Southwest
+2868,Paper,26,449.26,2024-02-20,Southeast
+2869,Graphics Card,37,635.81,2024-03-14,Northeast
+2870,Air Conditioner,29,285.58,2022-11-23,Central
+2871,Network Card,6,254.58,2024-12-13,West
+2872,Calculator,44,410.19,2023-02-13,North
+2873,Watch,47,677.09,2023-12-28,West
+2874,Shoes,15,702.8,2024-02-04,East
+2875,Air Conditioner,2,80.62,2024-12-08,
+2876,Microphone,20,601.03,2023-11-09,Southwest
+2877,T-Shirt,39,515.96,2022-12-14,South
+2878,GPU,29,454.61,2022-11-20,South
+2879,Refrigerator,10,169.86,2023-12-27,North
+2880,Watch,35,260.88,2023-02-21,Southwest
+2881,Microphone,13,,2022-12-10,North
+2882,Programming Book,38,955.47,2024-02-17,East
+2883,Power Supply,21,836.07,2024-02-24,Southeast
+2884,Office Chair,11,599.19,2022-11-02,East
+2885,Speaker,6,748.18,2023-09-09,West
+2886,Printer,40,613.75,2024-01-08,West
+2887,Programming Book,9,511.35,2022-01-26,Northeast
+2888,Microphone,47,40.89,2024-01-15,Southeast
+2889,Laptop,39,112.58,2024-12-24,Northwest
+2890,Desktop,10,215.13,2023-02-23,West
+2891,Office Chair,3,390.3,2023-01-21,East
+2892,Scanner,43,778.48,2024-12-12,South
+2893,TV,46,217.38,2023-02-26,West
+2894,Watch,30,703.77,2022-11-18,South
+2895,RAM,35,106.82,2024-12-05,Southeast
+2896,External HDD,8,407.25,2024-10-01,Northwest
+2897,Office Chair,21,688.22,2024-09-18,Northeast
+2898,Paper,19,161.18,2024-04-11,Southwest
+2899,Washing Machine,8,210.54,2022-12-09,West
+2900,Shoes,18,,2022-05-11,Central
+2901,Smartphone,39,287.94,2024-01-19,Southwest
+2902,Mouse,13,850.45,2024-02-02,Southwest
+2903,T-Shirt,7,,2022-04-15,Southeast
+2904,Jeans,23,612.24,2022-01-06,Northwest
+2905,Motherboard,10,351.18,2022-12-24,Central
+2906,T-Shirt,28,653.53,2023-08-04,Northwest
+2907,Shoes,14,987.82,2022-01-25,West
+2908,Motherboard,22,662.64,2023-11-04,Southwest
+2909,Keyboard,18,71.5,2024-11-23,Southeast
+2910,Laptop,32,157.93,2024-01-01,South
+2911,Hat,22,319.7,2022-12-05,West
+2912,Monitor,3,704.98,2022-06-23,East
+2913,Keyboard,45,448.05,2022-12-13,Northwest
+2914,Mouse,19,985.48,2023-12-14,Southwest
+2915,Calculator,42,593.25,2023-02-05,Southwest
+2916,Laptop,2,183.01,2023-04-19,South
+2917,Graphics Card,6,400.49,2023-02-17,Northwest
+2918,GPU,13,966.81,2024-12-04,Northeast
+2919,Textbook,43,975.97,2022-12-27,Northeast
+2920,Jeans,34,853.9,2022-02-24,Southwest
+2921,Microphone,40,37.04,2023-01-05,Northeast
+2922,External HDD,37,21.32,2024-12-21,Northeast
+2923,Bag,39,537.35,2022-01-02,Northeast
+2924,Motherboard,45,,2022-07-05,Southwest
+2925,CPU,14,341.12,2022-10-24,North
+2926,Jeans,16,114.48,2022-11-20,East
+2927,Notebook,36,,2022-01-22,North
+2928,Jeans,26,633.18,2023-05-09,
+2929,Network Card,26,894.93,2023-12-22,
+2930,Desk,19,961.26,2023-01-28,West
+2931,Network Card,27,554.35,2022-12-10,North
+2932,Novel,1,590.09,2023-12-24,Northwest
+2933,Printer,35,546.88,2022-04-19,Southwest
+2934,Jeans,19,457.1,2024-02-07,Southeast
+2935,Refrigerator,6,606.23,2024-07-11,Southwest
+2936,Desktop,2,343.27,2022-01-04,South
+2937,Printer,41,431.22,2024-02-08,West
+2938,T-Shirt,21,503.37,2023-02-14,North
+2939,Washing Machine,31,335.97,2023-02-06,North
+2940,Novel,16,397.65,2022-01-24,West
+2941,Desk,50,537.46,2024-10-28,East
+2942,Microphone,45,699.78,2023-11-10,Southwest
+2943,Washing Machine,8,923.48,2023-02-26,Southeast
+2944,Smartphone,39,152.78,2023-11-18,Northeast
+2945,Air Conditioner,35,758.93,2022-01-16,Central
+2946,Dictionary,31,385.77,2022-01-05,South
+2947,Cooling Fan,39,659.52,2022-09-19,East
+2948,Speaker,27,80.32,2022-12-20,Northwest
+2949,Notebook,22,719.6,2022-11-27,West
+2950,Microphone,13,277.64,2024-12-26,North
+2951,Calculator,22,545.99,2022-02-12,Southwest
+2952,SSD,10,383.41,2024-12-17,North
+2953,Smartphone,48,253.9,2023-02-28,Northwest
+2954,Jeans,32,229.79,2024-11-02,South
+2955,Smartphone,22,,2022-04-22,Northwest
+2956,TV,49,259.39,2024-01-06,North
+2957,HDD,46,637.65,2022-01-13,Southeast
+2958,Hat,7,126.02,2023-12-09,Northeast
+2959,Jeans,21,128.78,2022-01-22,West
+2960,Pen,4,134.47,2022-12-06,Northeast
+2961,Cooling Fan,12,827.35,2023-11-14,Northeast
+2962,Desktop,44,247.34,2024-02-09,East
+2963,Cooling Fan,46,626.01,2023-12-08,South
+2964,Programming Book,41,,2023-02-20,West
+2965,Tablet,25,397.87,2023-12-13,North
+2966,Network Card,42,209.54,2022-09-06,South
+2967,RAM,41,,2024-03-05,North
+2968,Laptop,21,62.29,2024-07-13,Southwest
+2969,Power Supply,40,768.92,2022-12-14,Central
+2970,Mouse,6,405.04,2022-11-05,Northeast
+2971,Microphone,33,,2022-01-24,South
+2972,Network Card,42,,2024-12-02,Northeast
+2973,Folder,3,824.74,2024-12-16,Southwest
+2974,Magazine,37,201.79,2023-11-26,West
+2975,External HDD,33,342.19,2024-02-09,Northeast
+2976,Office Chair,12,876.19,2023-01-07,Central
+2977,Jeans,45,59.36,2022-12-03,North
+2978,T-Shirt,31,749.29,2024-11-19,North
+2979,Jeans,27,591.51,2023-07-22,North
+2980,Scanner,41,393.04,2024-12-15,West
+2981,Webcam,4,454.53,2022-03-06,South
+2982,Bag,19,723.63,2023-01-25,Southeast
+2983,Calculator,41,478.9,2024-02-24,South
+2984,Jacket,17,404.97,2023-01-25,
+2985,Bag,21,547.81,2024-12-16,Northeast
+2986,Novel,31,697.91,2023-03-16,North
+2987,Office Chair,50,522.59,2024-11-05,Southwest
+2988,Graphics Card,14,881.31,2022-01-04,North
+2989,RAM,48,722.76,2023-04-14,West
+2990,Graphics Card,48,956.08,2024-12-06,South
+2991,TV,24,873.28,2023-05-19,West
+2992,CPU,39,,2024-01-02,Northwest
+2993,Notebook,15,,2022-02-25,Southwest
+2994,Folder,17,521.1,2022-03-04,West
+2995,Power Supply,34,130.34,2022-08-28,North
+2996,Air Conditioner,44,881.33,2023-12-08,Central
+2997,Microphone,2,592.57,2022-02-06,East
+2998,Jacket,45,873.3,2024-06-07,Southeast
+2999,HDD,22,391.56,2023-12-10,West
+3000,Air Conditioner,18,810.16,2024-08-06,Northwest
