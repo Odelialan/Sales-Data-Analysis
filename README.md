@@ -235,8 +235,8 @@ logging.basicConfig(level=logging.DEBUG)
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 项目Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- 邮箱: your-email@example.com
+- 项目Issues: [GitHub Issues](https://github.com/Odelialan/Sales-Data-Analysis.git/issues)
+- 邮箱: lanhanyue1996@gmail.com
 
 ## 更新日志
 
