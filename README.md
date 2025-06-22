@@ -95,19 +95,19 @@ Sales-Analysis-Project/
 ┌─────────────────┬──────────────────────┬─────────────────────────────┐
 │ 分类 Category   │ 工具/技术 Tools/Tech  │ 用途 Purpose                │
 ├─────────────────┼──────────────────────┼─────────────────────────────┤
-│ 数据处理        │ pandas, numpy        │ 数据清洗、计算、分析        │
+│ 数据处理        │ pandas, numpy        │ 数据清洗、计算、分析          │
 │ Data Processing │                      │ Data cleaning, computation  │
 ├─────────────────┼──────────────────────┼─────────────────────────────┤
-│ 数据可视化      │ matplotlib, seaborn, │ 图表生成、统计可视化        │
+│ 数据可视化      │ matplotlib, seaborn, │ 图表生成、统计可视化          │
 │ Visualization   │ plotly               │ Chart generation, stats viz │
 ├─────────────────┼──────────────────────┼─────────────────────────────┤
-│ 开发环境        │ Jupyter Notebook,    │ 脚本编写与交互式开发        │
+│ 开发环境        │ Jupyter Notebook,    │ 脚本编写与交互式开发          │
 │ Development     │ VSCode, Python       │ Script writing & interactive│
 ├─────────────────┼──────────────────────┼─────────────────────────────┤
-│ 用户界面        │ tkinter, GUI工具包   │ 图形界面开发                │
+│ 用户界面        │ tkinter, GUI工具包   │ 图形界面开发                  │
 │ User Interface  │ GUI toolkit          │ Graphical interface dev     │
 ├─────────────────┼──────────────────────┼─────────────────────────────┤
-│ 报告输出        │ Markdown, CSV        │ 结果报告和数据导出          │
+│ 报告输出        │ Markdown, CSV        │ 结果报告和数据导出            │
 │ Report Output   │                      │ Result reporting & export   │
 └─────────────────┴──────────────────────┴─────────────────────────────┘
 ```
