@@ -1,0 +1,114 @@
+销售数据分析项目描述
+一、项目背景
+在当今数据驱动的商业环境中，销售数据分析是企业决策的核心依据。运用Pandas 数据处理技术，对真实销售数据集进行完整分析， 从数据清洗到业务洞察，全面展示数据分析能力。
+
+二、数据集要求
+1. 数据准备
+数据来源：销售相关数据集（如电商平台订单、零售交易记录等）
+必备字段：
+Order_ID：订单编号（整数）
+Product：产品名称（字符串）
+Quantity：购买数量（整数）
+Price：产品单价（浮点数，需含缺失值）
+Order_Date：订单日期（字符串格式）
+Region：销售地区（字符串，需含缺失值）
+
+Kaggle：
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?utm_source=chatgpt.com
+https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
+https://archive.ics.uci.edu/dataset/396/sales%2Btransactions%2Bdataset%2Bweekly?utm_source=chatgpt.com
+https://archive.ics.uci.edu/dataset/611/hierarchical%2Bsales%2Bdata?utm_source=chatgpt.com
+
+
+
+
+2. 数据加载与检查
+pd.read_csv()
+.head(3), .shape, .dtypes
+df['Quantity'].isnull().sum()
+
+3. 数据清洗
+Price 缺失值 → df['Price'].fillna(df['Price'].median(), inplace=True)
+Region 缺失值 → df['Region'].fillna('Unknown', inplace=True)
+重复行删除 → df.drop_duplicates(inplace=True)
+日期转换 → df['Order_Date'] = pd.to_datetime(df['Order_Date'])
+
+4. 异常值处理
+计算 IQR：
+Q1 = df['Quantity'].quantile(0.25)
+Q3 = df['Quantity'].quantile(0.75)
+IQR = Q3 - Q1
+upper = Q3 + 1.5 * IQR
+
+替换异常值：
+df.loc[df['Quantity'] > upper, 'Quantity'] = upper
+
+5. 探索性分析
+描述统计 → df[['Quantity', 'Price']].describe()
+新增 Sales 列 → df['Sales'] = df['Quantity'] * df['Price']
+分组聚合：
+grouped = df.groupby('Region').agg({
+    'Sales': ['sum', 'mean']
+})
+
+可视化（matplotlib or seaborn）：
+import matplotlib.pyplot as plt
+grouped['Sales']['sum'].plot(kind='bar', title='Total Sales by Region')
+plt.xlabel('Region')
+plt.ylabel('Total Sales')
+plt.tight_layout()
+plt.savefig('sales_by_region.png')
+
+
+三、任务步骤
+1.  数据加载与检查
+使用 Pandas 读取 CSV 文件 展示数据前 3 行
+输出数据维度（行×列） 检查各列数据类型
+统计 Quantity 列缺失值数量
+2.  数据清洗  处理缺失值：
+Price 列：用该列中位数填充
+Region 列：用"Unknown"填充 删除完全重复的行
+将 Order_Date 列转换为日期格式
+3.  异常值处理
+使用 IQR 方法检测 Quantity 列异常值
+将异常值替换为上界值（Q3 + 1.5×IQR） 输出处理前后异常值数量对比
+4.  探索性分析
+计算数值列描述统计（Quantity/Price 的均值、中位数、标准差、最小值、最大 值）
+新增 Sales 列（Quantity   × Price）
+按 Region 分组计算：
+总销售额（Sales 总和）
+平均订单金额（Sales 均值）
+绘制各地区总销售额柱状图（需包含标题、坐标轴标签）
+
+
+注意：若不按照以上步骤操作，最终需要呈现柱状图可视化结果、以及关键步骤 注释（解释操作目的）和简要分析结论（100-200 字业务见解）
+
+
+五、项目报告文档内容：
+完整 Python 代码（按任务顺序）
+代码输出结果（截图或文本） 柱状图可视化结果
+关键步骤注释（解释操作目的）
+简要分析结论（100-200 字业务见解）
+
+六、项目报告文档主要要求标准
+代码正确性：严 格 使用方 法 （如.fillna(), .drop_duplicates(), IQR 计算等）
+结果完整性：包含所有要求的输出结果和 图表
+分析深度：业务见解的合理性和深度
+文档规范性：注释清晰、格式整洁
+
+七、补充建议
+使用 Jupyter Notebook 组织分析流程，并导出为 HTML/PDF。
+在报告中加入“字段字典”（数据字段解释）。
+
+其他需求：
+加入月份维度分析
+用 Seaborn 或 Plotly 提升图表美观度
+尝试使用 Pivot Table 方式实现分组聚合
+制作一个美观的GUI：可选择输入路径，如果不输入就默认在data路径下。
+可选择最后的结果合并到一个文件中，也可以选择最后的结果分开一一对应的数据文件和报告。
+并且在GUI中加入你认为需要的可视化的交互的其他的功能。
